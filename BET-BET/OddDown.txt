@@ -1,0 +1,932 @@
+[sbo20]    (OK)Tianjin Quanjian(FT) 0 -0.88 [999]Odd Down:-1
+[sbo19]    (OK)Al Sailiya(H1) -0.25 0.98 [330]Odd Down:-1
+[sbo20]    (OK)Al Sailiya(H1) -0.25 0.95 [555]Odd Down:-1
+[sbo19]    (OK)BATE Borisov(FT) -1 0.99 [2000]Odd Down:-1
+[sbo19]    (OK)Apollon Limassol(FT) 1.5 0.99 [880]Odd Down:-1
+[sbo19]    (OK)Zulte Waregem(FT) 1.5 -0.74 [527]Odd Down:-1
+[sbo20]    (OK)Arsenal(H1) -0.5 -0.81 [777]Odd Down:-1
+[sbo21]    (OK)Arsenal(H1) -0.5 -0.81 [369]Odd Down:-1
+[sbo20]    (OK)K Athens(H1) 0.5 -0.84 [222]Odd Down:-1
+[sbo20]    (OK)Hapoel Beer Sheva(FT) 0.25 -0.88 [202]Odd Down:-1
+[sbo20]    (OK)Real Sociedad(FT) 0 -0.63 [666]Odd Down:-5
+[sbo20]    (OK)Nice(OFT) 2.75 0.95 [440]Odd Down:-1
+[sbo19]    (OK)Lyon(UH1) 1 -0.85 [793]Odd Down:-1
+[sbo20]    (OK)Lyon(UH1) 1 -0.85 [318]Odd Down:-1
+[sbo21]    (OK)Lyon(UH1) 1 -0.85 [123]Odd Down:-1
+[sbo19]    (OK)Atalanta(FT) 0.25 -0.83 [119]Odd Down:-1
+[sbo21]    (OK)Atalanta(FT) 0.25 -0.83 [369]Odd Down:-1
+[sbo19]    (OK)Everton(OH1) 1.25 -0.73 [36]Odd Down:-1
+[sbo19]    (OK)Everton(OFT) 2.75 -0.91 [13]Odd Down:-1
+[sbo21]    (OK)Atalanta(H1) 0 -0.79 [123]Odd Down:-4
+[sbo21]    (OK)Godoy Cruz Antonio Tomba(FT) 0 -0.71 [492]Odd Down:-1
+[sbo9]    (OK)Olimpik Donetsk U21(OH1) 1.25 -1.00 [20]Odd Down:-5
+[sbo15]    (OK)Wiener Neustadt(FT) 0 -0.72 [75]Odd Down:-1
+[sbo6]    (OK)Sandecja Nowy Sacz(FT) 0 -0.83 [300]Odd Down:-1
+[sbo20]    (OK)Bayer Leverkusen(FT) -0.25 -0.67 [1332]Odd Down:-1
+[sbo21]    (OK)Queens Park Rangers(FT) 0 -0.74 [369]Odd Down:-1
+[sbo19]    (OK)Arka Gdynia(OFT) 2.5 -0.88 [55]Odd Down:-1
+[sbo21]    (OK)Schalke 04(FT) 0.25 -0.83 [738]Odd Down:-1
+[sbo19]    (OK)Celta Vigo(FT) 1 -0.76 [55]Odd Down:-1
+[sbo20]    (OK)Den Bosch(OFT) 2.75 0.98 [333]Odd Down:-1
+[sbo21]    (OK)Den Bosch(OFT) 2.75 0.98 [246]Odd Down:-1
+[sbo19]    (OK)Tours(FT) 0 -0.77 [550]Odd Down:-1
+[sbo21]    (OK)Jong AZ Alkmaar(OFT) 3.25 -0.87 [246]Odd Down:-1
+[sbo19]    (OK)Arsenal Tula(FT) -0.5 -0.82 [2000]Odd Down:-1
+[sbo20]    (OK)Arsenal Tula(FT) -0.5 -0.82 [777]Odd Down:-1
+[sbo20]    (OK)Liefering(FT) 0.5 -0.79 [204]Odd Down:-1
+[sbo21]    (OK)Liefering(FT) 0.5 -0.79 [123]Odd Down:-1
+[sbo21]    (OK)Charleroi(FT) 0 -0.96 [861]Odd Down:-1
+[sbo21]    (OK)Kristiansund(FT) 0.5 -0.81 [738]Odd Down:-1
+[sbo19]    (OK)Schalke 04(H1) 0.25 -0.65 [385]Odd Down:-1
+[sbo21]    (OK)Blau Weiss Linz(FT) 0.5 -0.86 [819]Odd Down:-1
+[sbo19]    (OK)Queens Park Rangers(FT) 0 -0.75 [165]Odd Down:-1
+[sbo21]    (OK)Girona(FT) 0.75 0.99 [336]Odd Down:-1
+[sbo19]    (OK)Emmen(FT) 0.75 -0.86 [472]Odd Down:-1
+[sbo19]    (OK)Jong Utrecht(FT) 0 -0.80 [66]Odd Down:-1
+[sbo19]    (OK)Bayer Leverkusen(FT) 0 -0.90 [13]Odd Down:-1
+[sbo32]    (OK)Paradou(FT) 0.75 -0.91 [258]Odd Down:-1
+[sbo32]    (OK)Schalke 04(FT) 0.25 -0.81 [1000]Odd Down:-1
+[sbo35]    (OK)Schalke 04(H1) 0.25 -0.65 [1000]Odd Down:-1
+[sbo33]    (OK)Cultural Leonesa(FT) 0.25 -0.79 [190]Odd Down:-1
+[sbo32]    (OK)Horsens(FT) 0.75 0.67 [85]Odd Down:-1
+[sbo36]    (OK)Cultural Leonesa(FT) 0.25 -0.79 [70]Odd Down:-1
+[sbo32]    (OK)Atlas(FT) 0.5 0.91 [140]Odd Down:-1
+[sbo31]    (OK)Bayer Leverkusen(FT) 0 -1.00 [70]Odd Down:-1
+[sbo36]    (OK)Bayer Leverkusen(FT) 0 -1.00 [105]Odd Down:-1
+[sbo34]    (OK)Bayer Leverkusen(FT) 0 -1.00 [35]Odd Down:-1
+[sbo31]    (OK)Celta Vigo(FT) 1 -0.71 [210]Odd Down:-1
+[sbo35]    (OK)Celta Vigo(FT) 1 -0.71 [35]Odd Down:-1
+[sbo26]    (OK)Cracovia Krakow(FT) 0.75 0.74 [1000]Odd Down:-5
+[sbo33]    (OK)Bayer Leverkusen(FT) -0.25 -0.74 [340]Odd Down:-1
+[sbo24]    (OK)Girona(FT) 0.5 -0.82 [539]Odd Down:-1
+[sbo20]    (OK)Getafe(FT) 0 -0.70 [666]Odd Down:-1
+[sbo21]    (OK)Getafe(FT) 0 -0.70 [738]Odd Down:-1
+[sbo31]    (OK)Bromley(H1) -0.25 0.87 [647]Odd Down:-1
+[sbo32]    (OK)West Ham United(H1) 0 0.45 [285]Odd Down:-1
+[sbo34]    (OK)West Ham United(H1) 0 0.45 [140]Odd Down:-1
+[sbo32]    (OK)Crawley Town(FT) 0 -0.91 [170]Odd Down:-1
+[sbo31]    (OK)Swansea City(FT) 0.25 -0.65 [170]Odd Down:-1
+[sbo32]    (OK)Watford(FT) 0.25 -0.93 [255]Odd Down:-1
+[sbo34]    (OK)Watford(FT) 0.25 -0.93 [35]Odd Down:-1
+[sbo32]    (OK)United of Manchester(FT) 0.75 -0.91 [85]Odd Down:-1
+[sbo31]    (OK)Luton Town(FT) 0.75 -0.87 [170]Odd Down:-1
+[sbo34]    (OK)United of Manchester(FT) 0.75 -0.91 [140]Odd Down:-1
+[sbo32]    (OK)Eintracht Frankfurt(FT) 0.75 -0.68 [170]Odd Down:-1
+[sbo34]    (OK)Eintracht Frankfurt(FT) 0.75 -0.68 [35]Odd Down:-1
+[sbo31]    (OK)Mainz 05(FT) 0.5 0.75 [140]Odd Down:-1
+[sbo34]    (OK)Mainz 05(FT) 0.5 0.75 [70]Odd Down:-1
+[sbo35]    (OK)Real Valladolid(FT) 0.75 -0.81 [70]Odd Down:-1
+[sbo35]    (OK)KA Akureyri(FT) 0.75 -0.96 [70]Odd Down:-1
+[sbo31]    (OK)Bournemouth(FT) -0.25 0.67 [1000]Odd Down:-1
+[sbo34]    (OK)Bournemouth(FT) -0.25 0.67 [1000]Odd Down:-1
+[sbo32]    (OK)Stoke City(FT) -0.25 0.75 [170]Odd Down:-1
+[sbo33]    (OK)Leicester City(FT) 0 0.98 [190]Odd Down:-1
+[sbo33]    (OK)VfB Stuttgart(FT) 0.5 0.83 [285]Odd Down:-1
+[sbo36]    (OK)Crystal Palace(FT) 1.75 -0.84 [70]Odd Down:-1
+[sbo36]    (OK)Borussia Monchengladbach(FT) 1 -0.77 [35]Odd Down:-1
+[sbo32]    (OK)Real Valladolid(FT) 0.75 -0.81 [210]Odd Down:-1
+[sbo35]    (OK)VfL Wolfsburg(FT) 0.25 0.93 [35]Odd Down:-1
+[sbo31]    (OK)Bristol City(FT) 0 0.86 [70]Odd Down:-1
+[sbo31]    (OK)Borussia Monchengladbach(FT) 1 -0.77 [280]Odd Down:-1
+[sbo35]    (OK)Borussia Monchengladbach(FT) 1 -0.77 [35]Odd Down:-1
+[sbo34]    (OK)Sevilla(FT) 1.75 -0.69 [70]Odd Down:-1
+[sbo34]    (OK)HJK Helsinki(FT) 2 -0.80 [70]Odd Down:-1
+[sbo32]    (OK)HJK Helsinki(FT) 2 -0.80 [170]Odd Down:-1
+[sbo36]    (OK)Dagenham & Redbridge(H1) 0.5 -0.92 [105]Odd Down:-1
+[sbo36]    (OK)Sevilla(UFT) 2.75 -0.85 [140]Odd Down:-1
+[sbo32]    (OK)Borussia Monchengladbach(FT) 0.5 0.70 [170]Odd Down:-1
+[sbo31]    (OK)Walsall(FT) 1 0.97 [140]Odd Down:-1
+[sbo36]    (OK)Walsall(FT) 1 0.97 [70]Odd Down:-1
+[sbo33]    (OK)HJK Helsinki(FT) 2 -0.80 [140]Odd Down:-1
+[sbo36]    (OK)Lechia Gdansk(OFT) 2.5 -0.91 [140]Odd Down:-1
+[sbo31]    (OK)Middlesbrough(FT) 0.75 -0.81 [170]Odd Down:-1
+[sbo36]    (OK)Middlesbrough(FT) 0.75 -0.81 [70]Odd Down:-1
+[sbo35]    (OK)Middlesbrough(FT) 0.75 -0.81 [35]Odd Down:-1
+[sbo31]    (OK)Sutton United(H1) 0 0.88 [210]Odd Down:-1
+[sbo33]    (OK)Walsall(FT) 1 0.99 [95]Odd Down:-1
+[sbo36]    (OK)Malaga(FT) 1.25 -0.91 [35]Odd Down:-1
+[sbo32]    (OK)Walsall(FT) 1 0.99 [85]Odd Down:-1
+[sbo32]    (OK)Sevilla(FT) 1.75 -0.69 [951]Odd Down:-1
+[sbo35]    (OK)Southampton(FT) 0 0.86 [140]Odd Down:-1
+[sbo33]    (OK)Bristol City(FT) -0.25 -0.81 [85]Odd Down:-1
+[sbo34]    (OK)Bristol City(FT) -0.25 -0.81 [35]Odd Down:-1
+[sbo33]    (OK)Southampton(FT) 0 0.86 [280]Odd Down:-1
+[sbo34]    (OK)Sheffield United(FT) 0 -1.00 [105]Odd Down:-1
+[sbo36]    (OK)Llandudno(FT) 0.5 -0.87 [35]Odd Down:-1
+[sbo33]    (OK)Llandudno(FT) 0.5 -0.87 [85]Odd Down:-1
+[sbo32]    (OK)VfL Wolfsburg(FT) 0.25 0.91 [255]Odd Down:-1
+[sbo36]    (OK)Southampton(FT) 0 0.86 [70]Odd Down:-1
+[sbo33]    (OK)Fjolnir(FT) 0 -0.98 [70]Odd Down:-1
+[sbo36]    (OK)Fjolnir(FT) 0 -0.98 [70]Odd Down:-1
+[sbo32]    (OK)West Ham United(FT) 0.75 -0.84 [39]Odd Down:-1
+[sbo35]    (OK)VfB Stuttgart(FT) 0.5 0.83 [140]Odd Down:-1
+[sbo36]    (OK)Birmingham City(FT) 0.25 -0.81 [216]Odd Down:-1
+[sbo35]    (OK)Birmingham City(FT) 0.25 -0.82 [35]Odd Down:-1
+[sbo33]    (OK)Birmingham City(FT) 0.25 -0.82 [170]Odd Down:-1
+[sbo34]    (OK)Mainz 05(H1) 0 -0.70 [70]Odd Down:-1
+[sbo33]    (OK)RoPS Rovaniemi(FT) 0.5 0.81 [190]Odd Down:-1
+[sbo35]    (OK)RoPS Rovaniemi(FT) 0.5 0.81 [105]Odd Down:-1
+[sbo36]    (OK)Saint Johnstone(FT) 0.75 -0.82 [41]Odd Down:-1
+[sbo33]    (OK)Watford(FT) 0.25 -0.91 [70]Odd Down:-1
+[sbo34]    (OK)Saint Johnstone(FT) 0.75 -0.82 [70]Odd Down:-1
+[sbo35]    (OK)Bournemouth(FT) -0.25 0.63 [35]Odd Down:-1
+[sbo33]    (OK)Brackley Town(H1) 0.25 -0.96 [638]Odd Down:-1
+[sbo34]    (OK)Maidstone United(FT) 0.25 -0.99 [35]Odd Down:-1
+[sbo33]    (OK)Aldershot Town(H1) 0 0.99 [95]Odd Down:-1
+[sbo33]    (OK)Saint Johnstone(FT) 0.75 -0.82 [285]Odd Down:-1
+[sbo35]    (OK)West Ham United(FT) 0.5 0.87 [105]Odd Down:-1
+[sbo33]    (OK)Borussia Monchengladbach(FT) 0.5 0.73 [74]Odd Down:-1
+[sbo35]    (OK)Maidenhead United(FT) 0.75 -0.90 [35]Odd Down:-1
+[sbo33]    (OK)Maidenhead United(FT) 0.75 -0.90 [70]Odd Down:-1
+[sbo34]    (OK)Maidenhead United(FT) 0.75 -0.90 [35]Odd Down:-1
+[sbo33]    (OK)Bury(FT) 0 0.98 [156]Odd Down:-1
+[sbo34]    (OK)Newport County(FT) 0.75 0.79 [70]Odd Down:-1
+[sbo35]    (OK)IK Frej(FT) 0.25 0.99 [35]Odd Down:-1
+[sbo35]    (OK)Preston North End(FT) 0.75 -0.86 [70]Odd Down:-1
+[sbo35]    (OK)Coventry City(UFT) 2.5 0.99 [70]Odd Down:-1
+[sbo34]    (OK)Hibernian(FT) 1.75 0.88 [35]Odd Down:-1
+[sbo40]    (OK)Moreirense(FT) 0.25 0.85 [450]Odd Down:-3
+[sbo24]    (OK)Werder Bremen(FT) 0 -0.98 [539]Odd Down:-1
+[sbo24]    (OK)Alaves(FT) 0.5 -0.94 [1078]Odd Down:-1
+[sbo24]    (OK)Atletico Madrid(FT) -0.75 -0.97 [539]Odd Down:-1
+[sbo24]    (OK)Chelsea(FT) 0.25 -0.76 [383]Odd Down:-1
+[sbo24]    (OK)Bologna(FT) 0.25 0.99 [539]Odd Down:-1
+[sbo24]    (OK)Udinese(FT) 0.25 -0.80 [333]Odd Down:-1
+[sbo20]    (OK)Toulouse(FT) 0.5 -0.93 [1308]Odd Down:-1
+[sbo21]    (OK)Lorca(FT) 0 -0.91 [3000]Odd Down:-1
+[sbo19]    (OK)Lorca(FT) 0 -0.91 [440]Odd Down:-1
+[sbo20]    (OK)Groningen(FT) 0.25 -0.78 [92]Odd Down:-1
+[sbo21]    (OK)Groningen(FT) 0.25 -0.78 [64]Odd Down:-1
+[sbo19]    (OK)Strasbourg(FT) 0.25 -0.93 [220]Odd Down:-2
+[sbo19]    (OK)Lille(FT) 0 -0.92 [495]Odd Down:-1
+[sbo19]    (OK)Leganes(FT) -0.5 -0.84 [1155]Odd Down:-1
+[sbo20]    (OK)Lorca(FT) 0 -0.92 [20]Odd Down:-3
+[sbo19]    (OK)New York Red Bulls(FT) 0.75 0.99 [1020]Odd Down:-1
+[sbo19]    (OK)Leganes(H1) -0.25 -0.97 [275]Odd Down:-1
+[sbo19]    (OK)Wisla Krakow(OFT) 2.5 -0.83 [373]Odd Down:-1
+[sbo19]    (OK)Vasco da Gama(UFT) 2 -0.95 [187]Odd Down:-1
+[sbo25]    (OK)Lobos BUAP(UH1) 1.25 0.97 [647]Odd Down:-5
+[sbo31]    (OK)Santos(FT) 0.75 -0.93 [170]Odd Down:-1
+[sbo36]    (OK)Santos(FT) 0.75 -0.93 [70]Odd Down:-1
+[sbo32]    (OK)Palmeiras(FT) 1 -0.81 [170]Odd Down:-1
+[sbo33]    (OK)Racing Club(FT) -0.25 -0.90 [571]Odd Down:-1
+[sbo34]    (OK)Racing Club(FT) -0.25 -0.90 [1000]Odd Down:-1
+[sbo32]    (OK)New York City(FT) 0.25 -0.97 [1000]Odd Down:-1
+[sbo35]    (OK)New York City(FT) 0.25 -0.97 [1000]Odd Down:-1
+[sbo32]    (OK)Toluca(FT) 0 0.97 [210]Odd Down:-1
+[sbo34]    (OK)Toluca(FT) 0.25 -0.73 [35]Odd Down:-1
+[sbo31]    (OK)Toluca(FT) 0.25 -0.73 [70]Odd Down:-1
+[sbo26]    (OK)Persipura Jayapura(UH1) 1 -0.99 [388]Odd Down:-4
+[sbo24]    (OK)Arsenal(FT) 2 -0.77 [539]Odd Down:-1
+[sbo14]    (OK)Arsenal(FT) 1.75 -1.00 [174]Odd Down:-1
+[sbo36]    (OK)Newcastle United(FT) -0.75 0.97 [1000]Odd Down:-1
+[sbo31]    (OK)Husqvarna(H1) 0 -0.81 [210]Odd Down:-1
+[sbo32]    (OK)Koln(FT) -0.5 0.99 [85]Odd Down:-1
+[sbo36]    (OK)Koln(FT) -0.5 0.99 [105]Odd Down:-1
+[sbo31]    (OK)Liverpool(FT) -1 -0.74 [1000]Odd Down:-1
+[sbo36]    (OK)Lyngby(FT) -0.5 -0.83 [94]Odd Down:-1
+[sbo33]    (OK)Lyngby(FT) -0.5 -0.88 [61]Odd Down:-6
+[sbo34]    (OK)Koln(FT) -0.5 0.99 [35]Odd Down:-1
+[sbo34]    (OK)Liverpool(FT) -1 -0.74 [662]Odd Down:-1
+[sbo31]    (OK)Koln(FT) -0.5 0.99 [140]Odd Down:-1
+[sbo31]    (OK)Barcelona(FT) 3.25 -0.93 [70]Odd Down:-1
+[sbo31]    (OK)Las Palmas(H1) 1.25 -0.88 [140]Odd Down:-1
+[sbo32]    (OK)Las Palmas(FT) 3 -0.92 [170]Odd Down:-1
+[sbo35]    (OK)Las Palmas(FT) 3 -0.92 [105]Odd Down:-1
+[sbo32]    (OK)Colo Colo(FT) 0 0.97 [70]Odd Down:-1
+[sbo31]    (OK)Colo Colo(FT) 0 0.97 [129]Odd Down:-1
+[sbo34]    (OK)Colo Colo(FT) 0 0.97 [105]Odd Down:-1
+[sbo32]    (OK)Copenhagen(FT) -0.75 -0.92 [170]Odd Down:-1
+[sbo34]    (OK)Copenhagen(FT) -0.75 -0.92 [35]Odd Down:-1
+[sbo32]    (OK)Philadelphia Union(OFT) 2.75 0.99 [85]Odd Down:-1
+[sbo36]    (OK)Colo Colo(FT) 0 0.97 [16]Odd Down:-1
+[sbo32]    (OK)Liverpool(H1) -0.5 -0.73 [170]Odd Down:-1
+[sbo35]    (OK)Liverpool(H1) -0.5 -0.73 [140]Odd Down:-1
+[sbo32]    (OK)Roda JC(FT) 0.75 0.98 [99]Odd Down:-1
+[sbo35]    (OK)Roda JC(FT) 0.75 0.98 [105]Odd Down:-1
+[sbo20]    (OK)Copenhagen(FT) -0.75 -0.92 [111]Odd Down:-1
+[sbo19]    (OK)Liverpool(H1) -0.5 -0.73 [220]Odd Down:-1
+[sbo19]    (OK)Sparta Rotterdam(UFT) 2.5 -0.83 [110]Odd Down:-1
+[sbo20]    (OK)RB Leipzig(FT) -0.5 -0.91 [777]Odd Down:-1
+[sbo21]    (OK)Standard Liege(FT) 0.5 -0.91 [612]Odd Down:-1
+[sbo19]    (OK)Hammarby(OFT) 3 -0.94 [275]Odd Down:-1
+[sbo20]    (OK)Standard Liege(FT) 0.5 -0.91 [593]Odd Down:-1
+[sbo19]    (OK)Sandefjord(OFT) 2.75 -0.82 [275]Odd Down:-1
+[sbo21]    (OK)Angers(FT) -0.25 -0.96 [1107]Odd Down:-1
+[sbo21]    (OK)Roma(FT) 0 -0.90 [615]Odd Down:-1
+[sbo21]    (OK)Koln(FT) -0.25 -0.89 [81]Odd Down:-1
+[sbo26]    (OK)Copenhagen(FT) -0.75 0.99 [1000]Odd Down:-5
+[sbo1]    (OK)Valencia(FT) 0.75 -0.93 [500]Odd Down:-2
+[sbo24]    (OK)Atalanta(FT) -0.5 -0.88 [539]Odd Down:-1
+[sbo24]    (OK)Espanyol(FT) 2.5 -0.86 [539]Odd Down:-1
+[sbo2]    (OK)Juventus(FT) -0.75 -0.91 [272]Odd Down:-1
+[sbo8]    (OK)Juventus(FT) -0.75 -0.87 [197]Odd Down:-1
+[sbo33]    (OK)Avai(OFT) 2.25 -0.87 [122]Odd Down:-1
+[sbo34]    (OK)Avai(OFT) 2.25 -0.87 [1000]Odd Down:-1
+[sbo36]    (OK)Municipal Liberia(OFT) 2.75 -0.98 [70]Odd Down:-1
+[sbo35]    (OK)Municipal Liberia(OFT) 2.75 -0.98 [35]Odd Down:-1
+[sbo20]    (OK)Boca Juniors(FT) 1.75 -0.93 [222]Odd Down:-1
+[sbo19]    (OK)Quilmes(H1) 0 -0.94 [647]Odd Down:-1
+[sbo19]    (OK)Chacarita Juniors(FT) 1.5 -0.91 [2000]Odd Down:-1
+[sbo21]    (OK)Chacarita Juniors(FT) 1.5 -0.91 [123]Odd Down:-1
+[sbo19]    (OK)Audax Italiano(FT) 0.25 -0.86 [23]Odd Down:-1
+[sbo19]    (OK)Everton Vina del Mar(H1) 0 -0.94 [542]Odd Down:-1
+[sbo19]    (OK)Paranaense(UFT) 2 -0.73 [136]Odd Down:-1
+[sbo19]    (OK)Club Atletico Tigre(FT) -0.5 -0.81 [570]Odd Down:-1
+[sbo19]    (OK)Club Atletico Tigre(H1) -0.25 -0.96 [112]Odd Down:-1
+[sbo21]    (OK)Club Atletico Tigre(FT) -0.75 0.98 [2000]Odd Down:-1
+[sbo20]    (OK)Club Atletico Tigre(FT) -0.5 -0.81 [111]Odd Down:-1
+[sbo19]    (OK)Puebla(FT) 0.5 0.97 [47]Odd Down:-1
+[sbo21]    (OK)Santos Laguna(FT) 0.75 -0.81 [984]Odd Down:-1
+[sbo20]    (OK)Santos Laguna(FT) 0.5 0.99 [666]Odd Down:-1
+[sbo8]    (OK)Slovakia U21(FT) 0.75 -0.99 [200]Odd Down:-3
+[sbo13]    (OK)Slovakia U21(OFT) 2.75 0.72 [15]Odd Down:-48
+[sbo7]    (OK)Slovenia U21(FT) -0.75 -0.82 [24]Odd Down:-2
+[sbo9]    (OK)Hong Kong(FT) 2.25 0.73 [38]Odd Down:-3
+[sbo19]    (OK)Turkey U21(H1) -0.25 0.97 [440]Odd Down:-1
+[sbo19]    (OK)Azerbaijan(FT) -0.25 -0.74 [136]Odd Down:-1
+[sbo19]    (OK)Luxembourg U21(FT) -0.5 0.98 [110]Odd Down:-1
+[sbo20]    (OK)Azerbaijan(FT) -0.25 -0.75 [555]Odd Down:-1
+[sbo19]    (OK)Bayer Leverkusen(UFT) 3.25 -0.99 [68]Odd Down:-1
+[sbo19]    (OK)Iceland U21(FT) 0.75 -0.94 [935]Odd Down:-1
+[sbo19]    (OK)Austria Wien(UH1) 1.25 -0.86 [330]Odd Down:-1
+[sbo19]    (OK)Cyprus U21(FT) -0.5 -0.89 [605]Odd Down:-1
+[sbo19]    (OK)Pordenone Calcio(H1) 0.5 -0.88 [580]Odd Down:-1
+[sbo21]    (OK)Azerbaijan(FT) -0.25 -0.77 [369]Odd Down:-1
+[sbo19]    (OK)Netherlands U18(FT) 0.75 -0.98 [70]Odd Down:-1
+[sbo20]    (OK)Poland(FT) -2 -0.80 [111]Odd Down:-1
+[sbo19]    (OK)Poland(FT) -2 -0.80 [165]Odd Down:-1
+[sbo19]    (OK)Italy U20(H1) 0 -0.81 [990]Odd Down:-1
+[sbo19]    (OK)Netherlands U18(H1) 0.25 -0.93 [388]Odd Down:-1
+[sbo19]    (OK)Croatia U21(H1) 0.75 -0.90 [32]Odd Down:-1
+[sbo20]    (OK)Croatia U21(H1) 0.75 -0.90 [1221]Odd Down:-1
+[sbo20]    (OK)Romania U19(FT) 1.5 -0.83 [896]Odd Down:-1
+[sbo20]    (OK)Italy U20(H1) 0 -0.77 [152]Odd Down:-1
+[sbo20]    (OK)France U21(OFT) 3.25 -0.86 [35]Odd Down:-1
+[sbo21]    (OK)Italy U20(H1) 0 -0.77 [602]Odd Down:-1
+[sbo31]    (OK)Hungary U21(FT) -0.75 -0.86 [85]Odd Down:-1
+[sbo33]    (OK)Brazil(FT) -1 -0.62 [340]Odd Down:-1
+[sbo31]    (OK)Denmark(H1) -0.25 -0.77 [1000]Odd Down:-1
+[sbo33]    (OK)Ireland U21(FT) 0.25 0.96 [369]Odd Down:-1
+[sbo36]    (OK)Ireland U21(FT) 0.25 0.96 [140]Odd Down:-1
+[sbo34]    (OK)Ireland U21(FT) 0.25 0.96 [105]Odd Down:-1
+[sbo32]    (OK)Ireland U21(FT) 0.25 0.96 [101]Odd Down:-1
+[sbo32]    (OK)Scotland(H1) 0.25 -0.71 [303]Odd Down:-1
+[sbo35]    (OK)Scotland(H1) 0.25 -0.71 [245]Odd Down:-1
+[sbo33]    (OK)Scotland(H1) 0.25 -0.71 [246]Odd Down:-1
+[sbo34]    (OK)Scotland(H1) 0.25 -0.71 [70]Odd Down:-1
+[sbo31]    (OK)Ireland U21(FT) 0.25 0.96 [369]Odd Down:-1
+[sbo31]    (OK)Scotland(H1) 0.25 -0.71 [246]Odd Down:-1
+[sbo32]    (OK)England(FT) 1.5 -0.97 [303]Odd Down:-1
+[sbo36]    (OK)England(FT) 1.5 -0.97 [70]Odd Down:-1
+[sbo35]    (OK)Denmark(H1) -0.25 -0.75 [140]Odd Down:-1
+[sbo31]    (OK)Lithuania(FT) -0.5 -0.93 [111]Odd Down:-5
+[sbo31]    (OK)Scotland(FT) 0.5 -0.74 [202]Odd Down:-1
+[sbo33]    (OK)Scotland(FT) 0.5 -0.74 [246]Odd Down:-1
+[sbo34]    (OK)Scotland(FT) 0.5 -0.74 [140]Odd Down:-1
+[sbo35]    (OK)Scotland(FT) 0.5 -0.74 [315]Odd Down:-1
+[sbo33]    (OK)Romania(UH1) 1 -0.74 [492]Odd Down:-1
+[sbo35]    (OK)Romania(UH1) 1 -0.74 [75]Odd Down:-1
+[sbo36]    (OK)Romania(UH1) 1 -0.74 [70]Odd Down:-1
+[sbo32]    (OK)Romania(UH1) 1 -0.74 [606]Odd Down:-1
+[sbo33]    (OK)Northern Ireland(FT) -1.25 -0.87 [123]Odd Down:-1
+[sbo32]    (OK)Scotland(FT) 0.5 -0.74 [404]Odd Down:-1
+[sbo32]    (OK)Malta(FT) -0.25 -0.87 [24]Odd Down:-1
+[sbo36]    (OK)Malta(FT) -0.25 -0.87 [150]Odd Down:-1
+[sbo31]    (OK)Uruguay(FT) -1 -0.79 [666]Odd Down:-1
+[sbo34]    (OK)Uruguay(FT) -1 -0.79 [245]Odd Down:-1
+[sbo33]    (OK)Uruguay(FT) -1 -0.79 [492]Odd Down:-1
+[sbo32]    (OK)Brazil(FT) -0.75 -0.95 [101]Odd Down:-1
+[sbo34]    (OK)Brazil(FT) -0.75 -0.95 [35]Odd Down:-1
+[sbo35]    (OK)Brazil(FT) -0.75 -0.97 [300]Odd Down:-1
+[sbo31]    (OK)Argentina(FT) 2 -0.89 [111]Odd Down:-1
+[sbo35]    (OK)Argentina(FT) 2 -0.89 [150]Odd Down:-1
+[sbo34]    (OK)Argentina(FT) 2 -0.89 [70]Odd Down:-1
+[sbo33]    (OK)Argentina(FT) 2 -0.89 [103]Odd Down:-1
+[sbo33]    (OK)Paraguay(FT) 1 -0.70 [123]Odd Down:-1
+[sbo36]    (OK)Paraguay(FT) 1 -0.70 [105]Odd Down:-1
+[sbo31]    (OK)Paraguay(FT) 1 -0.70 [101]Odd Down:-1
+[sbo35]    (OK)Paraguay(FT) 1 -0.70 [75]Odd Down:-1
+[sbo36]    (OK)Venezuela(FT) -0.75 0.98 [245]Odd Down:-1
+[sbo31]    (OK)Chile(H1) 0.75 -0.83 [222]Odd Down:-1
+[sbo35]    (OK)Chile(H1) 0.75 -0.83 [70]Odd Down:-1
+[sbo32]    (OK)Chile(H1) 0.75 -0.83 [404]Odd Down:-1
+[sbo34]    (OK)Chile(H1) 0.75 -0.83 [245]Odd Down:-1
+[sbo31]    (OK)Ecuador(FT) 1.5 0.98 [444]Odd Down:-1
+[sbo35]    (OK)Ecuador(FT) 1.5 0.98 [150]Odd Down:-1
+[sbo36]    (OK)Ecuador(FT) 1.5 0.98 [35]Odd Down:-1
+[sbo32]    (OK)Ecuador(FT) 1.5 0.98 [202]Odd Down:-1
+[sbo31]    (OK)Argentina(UFT) 3 -0.95 [444]Odd Down:-1
+[sbo36]    (OK)Argentina(UFT) 3 -0.95 [70]Odd Down:-1
+[sbo32]    (OK)Argentina(UFT) 3 -0.95 [202]Odd Down:-1
+[sbo10]    (OK)Melbourne City(FT) 0.5 -0.88 [30]Odd Down:-2
+[sbo7]    (OK)Japan(FT) 1.75 0.93 [500]Odd Down:-3
+[sbo7]    (OK)FYR Macedonia U21(FT) -0.25 -0.76 [250]Odd Down:-2
+[sbo21]    (OK)England U21(OFT) 2.75 -0.97 [1000]Odd Down:-1
+[sbo19]    (OK)Helmond Sport(FT) -0.5 -0.98 [110]Odd Down:-1
+[sbo21]    (OK)Fortuna Sittard(FT) -0.25 -0.94 [30]Odd Down:-1
+[sbo19]    (OK)Jong  Eindhoven(FT) 0.25 0.95 [275]Odd Down:-1
+[sbo20]    (OK)Italy(H1) 1.25 -0.84 [444]Odd Down:-1
+[sbo19]    (OK)Jong  Eindhoven(OFT) 3 -0.95 [220]Odd Down:-1
+[sbo20]    (OK)Jong  Eindhoven(FT) 0.5 -0.79 [24]Odd Down:-1
+[sbo19]    (OK)Poland U21(OFT) 2.75 -0.86 [55]Odd Down:-1
+[sbo19]    (OK)Oss(FT) 0 -0.88 [408]Odd Down:-1
+[sbo19]    (OK)Azerbaijan U21(FT) 3 -0.74 [408]Odd Down:-1
+[sbo17]    (OK)Helmond Sport(FT) -0.5 -0.98 [339]Odd Down:-3
+[sbo19]    (OK)Liechtenstein(FT) -2 -1.00 [1088]Odd Down:-1
+[sbo19]    (OK)Kosovo(FT) -2 -0.93 [495]Odd Down:-1
+[sbo20]    (OK)Oss(FT) 0 -0.86 [666]Odd Down:-1
+[sbo20]    (OK)Kosovo(FT) -2 -0.91 [777]Odd Down:-1
+[sbo20]    (OK)Wales(FT) -0.75 -0.83 [555]Odd Down:-1
+[sbo19]    (OK)Wales(FT) -0.75 -0.82 [151]Odd Down:-1
+[sbo19]    (OK)Belgium U21(FT) 0.25 -0.99 [27]Odd Down:-1
+[sbo20]    (OK)Switzerland U21(FT) 0.75 -0.86 [222]Odd Down:-1
+[sbo20]    (OK)Finland(FT) 2 -0.89 [176]Odd Down:-1
+[sbo20]    (OK)NEC Nijmegen(FT) -0.5 -0.89 [20]Odd Down:-3
+[sbo32]    (OK)Spain(OH1) 1.5 0.98 [369]Odd Down:-1
+[sbo36]    (OK)Spain(OH1) 1.5 0.98 [70]Odd Down:-1
+[sbo33]    (OK)Spain(OH1) 1.5 0.98 [111]Odd Down:-1
+[sbo35]    (OK)Almere City(OFT) 3 0.99 [225]Odd Down:-1
+[sbo34]    (OK)Spain(OH1) 1.5 0.98 [140]Odd Down:-1
+[sbo31]    (OK)England U21(FT) 1.75 -0.91 [666]Odd Down:-1
+[sbo35]    (OK)England U21(FT) 1.75 -0.91 [375]Odd Down:-1
+[sbo33]    (OK)Almere City(FT) 0.25 -0.89 [1000]Odd Down:-1
+[sbo33]    (OK)Jong  Eindhoven(FT) 0.25 -0.94 [111]Odd Down:-1
+[sbo35]    (OK)Jong  Eindhoven(FT) 0.25 -0.94 [150]Odd Down:-1
+[sbo33]    (OK)Oss(FT) 0 -0.81 [369]Odd Down:-1
+[sbo34]    (OK)Oss(FT) 0 -0.81 [35]Odd Down:-1
+[sbo32]    (OK)Oss(FT) 0 -0.81 [202]Odd Down:-1
+[sbo36]    (OK)Oss(FT) 0 -0.81 [175]Odd Down:-1
+[sbo32]    (OK)Telstar(FT) 1.25 -0.99 [404]Odd Down:-1
+[sbo36]    (OK)Telstar(FT) 1.25 -0.99 [70]Odd Down:-1
+[sbo32]    (OK)De Graafschap(FT) -0.75 -0.83 [1000]Odd Down:-1
+[sbo31]    (OK)Helmond Sport(FT) -0.5 -0.96 [246]Odd Down:-2
+[sbo35]    (OK)Romania U21(FT) 0.5 -0.88 [225]Odd Down:-4
+[sbo33]    (OK)Liechtenstein(FT) -2 0.99 [123]Odd Down:-1
+[sbo31]    (OK)Liechtenstein(FT) -2 0.99 [222]Odd Down:-1
+[sbo35]    (OK)Liechtenstein(FT) -2 0.99 [280]Odd Down:-1
+[sbo34]    (OK)Liechtenstein(FT) -2 0.99 [280]Odd Down:-1
+[sbo32]    (OK)Liechtenstein(FT) -2 0.99 [606]Odd Down:-1
+[sbo33]    (OK)Croatia(H1) 1 -0.90 [123]Odd Down:-1
+[sbo33]    (OK)Scotland U21(FT) 1.5 -0.88 [123]Odd Down:-1
+[sbo32]    (OK)Scotland U21(FT) 1.5 -0.88 [101]Odd Down:-1
+[sbo34]    (OK)Scotland U21(FT) 1.5 -0.88 [35]Odd Down:-1
+[sbo33]    (OK)Italy(OH1) 1.5 -0.92 [123]Odd Down:-8
+[sbo34]    (OK)Italy(OH1) 1.5 -0.85 [35]Odd Down:-1
+[sbo31]    (OK)Italy(OH1) 1.5 -0.85 [333]Odd Down:-1
+[sbo32]    (OK)Italy(OH1) 1.5 -0.85 [80]Odd Down:-1
+[sbo36]    (OK)Italy(OH1) 1.5 -0.85 [280]Odd Down:-1
+[sbo33]    (OK)Volendam(FT) 1.25 -0.80 [256]Odd Down:-1
+[sbo31]    (OK)Jong Ajax(FT) 2 -0.91 [111]Odd Down:-1
+[sbo31]    (OK)Emmen(FT) 0 -0.94 [685]Odd Down:-2
+[sbo32]    (OK)NEC Nijmegen(FT) -0.5 -0.89 [12]Odd Down:-1
+[sbo31]    (OK)NEC Nijmegen(FT) -0.5 -0.89 [190]Odd Down:-1
+[sbo35]    (OK)NEC Nijmegen(FT) -0.5 -0.89 [225]Odd Down:-1
+[sbo31]    (OK)FYR Macedonia(FT) 2.25 0.98 [111]Odd Down:-3
+[sbo31]    (OK)Ireland(UH1) 1.25 0.89 [111]Odd Down:-7
+[sbo35]    (OK)Helmond Sport(FT) -0.5 -1.00 [75]Odd Down:-1
+[sbo33]    (OK)Croatia(FT) 2.25 -0.93 [52]Odd Down:-1
+[sbo31]    (OK)Dordrecht(OFT) 3 0.95 [444]Odd Down:-1
+[sbo35]    (OK)Dordrecht(OFT) 3 0.95 [300]Odd Down:-1
+[sbo36]    (OK)Jong  Eindhoven(FT) 0 -0.88 [225]Odd Down:-1
+[sbo31]    (OK)Turkey(UFT) 2.25 0.99 [312]Odd Down:-1
+[sbo26]    (OK)Spain(FT) 2.75 1.00 [1000]Odd Down:-2
+[sbo25]    (OK)Mexico(UFT) 3 -0.94 [1000]Odd Down:-5
+[sbo25]    (OK)USA(FT) 1 0.97 [1000]Odd Down:-4
+[sbo7]    (OK)Dundalk(FT) -1.25 -0.80 [26]Odd Down:-1
+[sbo26]    (OK)Belgium(FT) -0.5 -0.99 [1000]Odd Down:-1
+[sbo28]    (OK)Limerick(FT) 0.5 -0.91 [450]Odd Down:-1
+[sbo26]    (OK)Cadiz(FT) 0.5 -0.82 [1000]Odd Down:-4
+[sbo26]    (OK)Tenerife(OFT) 2.25 -0.92 [1000]Odd Down:-2
+[sbo26]    (OK)Cabinteely(FT) 0.25 -0.96 [52]Odd Down:-1
+[sbo21]    (OK)Sligo Rovers(FT) 0.25 -0.96 [1979]Odd Down:-1
+[sbo19]    (OK)Cyprus(FT) -0.5 -0.63 [385]Odd Down:-1
+[sbo19]    (OK)Colorado Rapids(FT) -0.25 -0.93 [408]Odd Down:-1
+[sbo19]    (OK)Defensa y Justicia(FT) 0.25 -0.90 [605]Odd Down:-1
+[sbo19]    (OK)Minnesota United(FT) -0.5 -0.92 [1020]Odd Down:-1
+[sbo20]    (OK)Colorado Rapids(FT) -0.25 -0.89 [417]Odd Down:-1
+[sbo21]    (OK)Colorado Rapids(FT) -0.25 -0.89 [21]Odd Down:-1
+[sbo19]    (OK)River Plate(H1) 0.25 -0.83 [388]Odd Down:-1
+[sbo19]    (OK)Honduras(FT) 0.75 -0.94 [385]Odd Down:-1
+[sbo20]    (OK)Honduras(FT) 0.75 -0.94 [1222]Odd Down:-1
+[sbo21]    (OK)Honduras(FT) 0.75 -0.94 [2000]Odd Down:-1
+[sbo20]    (OK)River Plate(FT) 0.5 -0.93 [333]Odd Down:-1
+[sbo20]    (OK)Minnesota United(FT) -0.5 -0.93 [186]Odd Down:-1
+[sbo19]    (OK)Dallas(H1) -0.25 -0.83 [329]Odd Down:-1
+[sbo40]    (OK)Romania(FT) 1.5 0.86 [450]Odd Down:-1
+[sbo6]    (OK)Real Valladolid(FT) 0.25 0.96 [200]Odd Down:-1
+[sbo8]    (OK)Poland(FT) 1.75 -0.94 [116]Odd Down:-1
+[sbo20]    (OK)Lugo(FT) 0.5 -0.97 [666]Odd Down:-1
+[sbo19]    (OK)Lugo(FT) 0.5 -0.89 [612]Odd Down:-1
+[sbo19]    (OK)Norway(FT) 0.5 -0.69 [110]Odd Down:-1
+[sbo19]    (OK)Norway(H1) 0.25 -0.66 [715]Odd Down:-1
+[sbo20]    (OK)Northern Ireland(FT) 0 -0.78 [111]Odd Down:-1
+[sbo20]    (OK)Numancia(FT) 0.25 -0.82 [750]Odd Down:-1
+[sbo19]    (OK)Azerbaijan(FT) 3.5 -0.79 [1907]Odd Down:-1
+[sbo19]    (OK)Chacarita Juniors(FT) 0.5 -0.93 [204]Odd Down:-1
+[sbo38]    (OK)Israel(FT) -1.75 0.98 [500]Odd Down:-1
+[sbo40]    (OK)Albania(FT) -1.25 0.67 [150]Odd Down:-1
+[sbo26]    (OK)Serbia U21(FT) 0.75 -0.87 [1000]Odd Down:-2
+[sbo25]    (OK)Moldova U21(FT) 0.75 -0.93 [1000]Odd Down:-3
+[sbo19]    (OK)Peru(OFT) 2.5 -0.79 [2308]Odd Down:-1
+[sbo20]    (OK)Albania U21(FT) 0.25 -0.83 [444]Odd Down:-1
+[sbo19]    (OK)Lithuania U21(FT) -1.5 -0.93 [1155]Odd Down:-1
+[sbo20]    (OK)Peru(OFT) 2.5 -0.79 [111]Odd Down:-1
+[sbo19]    (OK)Faroe Islands U21(FT) -0.75 -0.93 [102]Odd Down:-1
+[sbo21]    (OK)Sweden(FT) 0.5 -0.89 [246]Odd Down:-1
+[sbo21]    (OK)Iceland U21(FT) 0 -0.92 [492]Odd Down:-1
+[sbo20]    (OK)Faroe Islands(FT) 1.25 -0.86 [1891]Odd Down:-1
+[sbo20]    (OK)Paraguay(FT) 1.75 -0.74 [417]Odd Down:-1
+[sbo21]    (OK)Faroe Islands(FT) 1.25 -0.86 [328]Odd Down:-1
+[sbo21]    (OK)Paraguay(FT) 1.75 -0.74 [46]Odd Down:-1
+[sbo18]    (OK)Mexico(FT) 0.25 0.86 [123]Odd Down:-3
+[sbo31]    (OK)Faroe Islands(FT) 1.25 -0.94 [123]Odd Down:-1
+[sbo34]    (OK)Faroe Islands(FT) 1.25 -0.94 [70]Odd Down:-1
+[sbo32]    (OK)Faroe Islands(FT) 1.25 -0.94 [808]Odd Down:-1
+[sbo33]    (OK)Faroe Islands(FT) 1.25 -0.94 [246]Odd Down:-1
+[sbo36]    (OK)Faroe Islands(FT) 1.25 -0.94 [35]Odd Down:-1
+[sbo31]    (OK)Albania U21(FT) 0.25 -0.78 [111]Odd Down:-1
+[sbo32]    (OK)Huesca(FT) 0.75 -0.94 [404]Odd Down:-1
+[sbo34]    (OK)Huesca(FT) 0.75 -0.94 [210]Odd Down:-1
+[sbo36]    (OK)Huesca(FT) 0.75 -0.94 [225]Odd Down:-1
+[sbo33]    (OK)Huesca(FT) 0.75 -0.94 [246]Odd Down:-1
+[sbo31]    (OK)Huesca(FT) 0.75 -0.94 [222]Odd Down:-1
+[sbo33]    (OK)Portugal(OFT) 2.5 -0.95 [123]Odd Down:-1
+[sbo32]    (OK)Andorra(FT) 1.25 0.98 [606]Odd Down:-1
+[sbo34]    (OK)Andorra(FT) 1.25 0.98 [150]Odd Down:-1
+[sbo33]    (OK)USA(FT) -1.5 0.97 [246]Odd Down:-1
+[sbo35]    (OK)USA(FT) -1.5 0.97 [150]Odd Down:-1
+[sbo34]    (OK)USA(FT) -1.5 0.97 [70]Odd Down:-1
+[sbo32]    (OK)USA(FT) -1.5 0.97 [202]Odd Down:-1
+[sbo32]    (OK)Sweden(FT) 0.25 -0.69 [202]Odd Down:-1
+[sbo34]    (OK)Sweden(FT) 0.25 -0.69 [210]Odd Down:-1
+[sbo35]    (OK)Sweden(FT) 0.25 -0.69 [525]Odd Down:-1
+[sbo31]    (OK)Sweden(FT) 0.25 -0.69 [333]Odd Down:-1
+[sbo33]    (OK)Sweden(FT) 0.25 -0.69 [369]Odd Down:-1
+[sbo33]    (OK)Gibraltar(FT) 4.5 -0.88 [111]Odd Down:-2
+[sbo15]    (OK)Cyprus(FT) 2.75 -0.89 [40]Odd Down:-4
+[sbo26]    (OK)Sporting Gijon(FT) 0 -0.96 [1000]Odd Down:-1
+[sbo39]    (OK)Avai(UFT) 2 0.96 [1250]Odd Down:-2
+[sbo4]    (OK)Tenerife(FT) 0 -0.68 [950]Odd Down:-3
+[sbo19]    (OK)Idoya(H1) 0.25 -0.87 [388]Odd Down:-1
+[sbo18]    (OK)Cordoba(FT) 0.25 0.81 [246]Odd Down:-3
+[sbo21]    (OK)Vaasa VPS(OFT) 2.75 -0.93 [1000]Odd Down:-2
+[sbo19]    (OK)Real Valladolid(FT) 1 -0.80 [275]Odd Down:-1
+[sbo19]    (OK)Rayo Vallecano(FT) 1 -0.77 [605]Odd Down:-1
+[sbo19]    (OK)Illueca(H1) -0.25 -0.82 [388]Odd Down:-1
+[sbo21]    (OK)Alcorcon(FT) 0.75 -0.93 [70]Odd Down:-1
+[sbo19]    (OK)JJK Jyvaskyla(FT) -1 0.98 [385]Odd Down:-1
+[sbo20]    (OK)Rayo Vallecano(FT) 1 -0.78 [110]Odd Down:-1
+[sbo19]    (OK)Utrera(H1) 0.25 -0.87 [178]Odd Down:-1
+[sbo19]    (OK)Haugesund(FT) 0.25 -0.92 [544]Odd Down:-1
+[sbo19]    (OK)Santos(FT) 0 -0.85 [788]Odd Down:-1
+[sbo19]    (OK)Fluminense(FT) 0.75 -0.91 [118]Odd Down:-3
+[sbo19]    (OK)Flamengo(UH1) 1 -0.99 [220]Odd Down:-1
+[sbo19]    (OK)Palmeiras(UFT) 2.25 -0.81 [1396]Odd Down:-1
+[sbo37]    (OK)Fortuna Koln(FT) 0.75 0.96 [160]Odd Down:-2
+[sbo26]    (OK)Sochaux(FT) 0.25 -0.87 [1000]Odd Down:-3
+[sbo21]    (OK)Fortuna Sittard(FT) 0.25 -0.91 [369]Odd Down:-1
+[sbo20]    (OK)VfL Osnabruck(FT) 0 -0.84 [2500]Odd Down:-1
+[sbo20]    (OK)Cambuur(FT) 1.5 -0.95 [333]Odd Down:-1
+[sbo19]    (OK)Cambuur(FT) 1.5 -0.95 [385]Odd Down:-1
+[sbo20]    (OK)Espanyol(UFT) 2 -0.70 [83]Odd Down:-1
+[sbo20]    (OK)Eindhoven(OFT) 3 -1.00 [25]Odd Down:-1
+[sbo21]    (OK)VfL Osnabruck(FT) 0 -0.79 [1476]Odd Down:-1
+[sbo19]    (OK)Espanyol(UFT) 2 -0.70 [204]Odd Down:-1
+[sbo19]    (OK)Genclerbirligi(FT) -0.75 -0.78 [110]Odd Down:-1
+[sbo19]    (OK)Valenciennes(UFT) 2.5 0.99 [2405]Odd Down:-1
+[sbo21]    (OK)Cardiff City(FT) -0.25 0.97 [21]Odd Down:-1
+[sbo21]    (OK)Espanyol(UFT) 2.25 -1.00 [420]Odd Down:-1
+[sbo31]    (OK)Cardiff City(FT) -0.5 -0.78 [111]Odd Down:-1
+[sbo35]    (OK)Cardiff City(FT) -0.5 -0.78 [375]Odd Down:-1
+[sbo33]    (OK)Koln(FT) 0.25 -0.68 [202]Odd Down:-1
+[sbo36]    (OK)Cardiff City(FT) -0.5 -0.78 [175]Odd Down:-1
+[sbo31]    (OK)Koln(FT) 0.25 -0.68 [246]Odd Down:-1
+[sbo35]    (OK)Koln(FT) 0.25 -0.68 [35]Odd Down:-1
+[sbo32]    (OK)MVV Maastricht(FT) 0.5 -0.87 [404]Odd Down:-1
+[sbo36]    (OK)Koln(FT) 0.25 -0.68 [70]Odd Down:-1
+[sbo32]    (OK)Cardiff City(FT) -0.5 -0.78 [246]Odd Down:-1
+[sbo34]    (OK)Jong  Eindhoven(FT) 0.5 -0.88 [315]Odd Down:-1
+[sbo33]    (OK)Jong  Eindhoven(FT) 0.5 -0.88 [123]Odd Down:-1
+[sbo36]    (OK)MVV Maastricht(FT) 0.5 -0.87 [105]Odd Down:-1
+[sbo36]    (OK)Bristol City(OH1) 1.25 -0.86 [75]Odd Down:-1
+[sbo32]    (OK)Rangers(FT) -1 -0.75 [707]Odd Down:-1
+[sbo34]    (OK)Rangers(FT) -1 -0.75 [70]Odd Down:-1
+[sbo33]    (OK)Rangers(FT) -1 -0.75 [246]Odd Down:-1
+[sbo33]    (OK)Cardiff City(FT) -0.5 -0.78 [222]Odd Down:-1
+[sbo33]    (OK)Bristol City(OH1) 1.25 -0.86 [123]Odd Down:-1
+[sbo35]    (OK)Bristol City(OH1) 1.25 -0.86 [105]Odd Down:-1
+[sbo32]    (OK)Bristol City(OH1) 1.25 -0.86 [707]Odd Down:-1
+[sbo32]    (OK)Koln(FT) 0.25 -0.68 [505]Odd Down:-1
+[sbo31]    (OK)Bristol City(OH1) 1.25 -0.86 [333]Odd Down:-1
+[sbo32]    (OK)Nimes(OFT) 2.5 0.99 [333]Odd Down:-1
+[sbo34]    (OK)Nimes(OFT) 2.5 0.99 [175]Odd Down:-1
+[sbo33]    (OK)Nimes(OFT) 2.5 0.99 [246]Odd Down:-1
+[sbo32]    (OK)NEC Nijmegen(H1) 0.5 0.97 [141]Odd Down:-1
+[sbo31]    (OK)Bourg en Bresse Peronnas 01(FT) -0.25 -0.78 [1000]Odd Down:-1
+[sbo36]    (OK)Bourg en Bresse Peronnas 01(FT) -0.25 -0.78 [885]Odd Down:-1
+[sbo36]    (OK)NEC Nijmegen(H1) 0.5 0.97 [35]Odd Down:-1
+[sbo33]    (OK)NEC Nijmegen(H1) 0.5 0.97 [492]Odd Down:-1
+[sbo33]    (OK)Auxerre(FT) 0.25 -0.97 [76]Odd Down:-1
+[sbo34]    (OK)Auxerre(FT) 0.25 -0.97 [70]Odd Down:-1
+[sbo31]    (OK)Auxerre(FT) 0.25 -0.97 [246]Odd Down:-1
+[sbo33]    (OK)MVV Maastricht(FT) 0.5 -0.83 [492]Odd Down:-1
+[sbo34]    (OK)MVV Maastricht(FT) 0.5 -0.83 [70]Odd Down:-1
+[sbo31]    (OK)MVV Maastricht(FT) 0.5 -0.83 [246]Odd Down:-1
+[sbo31]    (OK)Jong Utrecht(FT) 0.75 -0.86 [286]Odd Down:-1
+[sbo36]    (OK)Jong Utrecht(FT) 0.75 -0.86 [934]Odd Down:-1
+[sbo33]    (OK)Pro Piacenza(H1) 0.25 -0.91 [333]Odd Down:-1
+[sbo35]    (OK)Pro Piacenza(H1) 0.25 -0.91 [175]Odd Down:-1
+[sbo31]    (OK)Telstar(FT) 0.5 -0.90 [555]Odd Down:-1
+[sbo34]    (OK)Telstar(FT) 0.5 -0.90 [70]Odd Down:-1
+[sbo31]    (OK)MVV Maastricht(UFT) 3 -0.81 [222]Odd Down:-1
+[sbo33]    (OK)Wacker Innsbruck(FT) 0.75 -0.82 [157]Odd Down:-1
+[sbo19]    (OK)TSG Hoffenheim(FT) 0.75 -0.96 [495]Odd Down:-1
+[sbo20]    (OK)Real Oviedo(FT) 0 -0.70 [163]Odd Down:-1
+[sbo19]    (OK)Bournemouth(FT) 1.5 -0.75 [2010]Odd Down:-1
+[sbo20]    (OK)West Ham United(FT) -0.25 -0.79 [49]Odd Down:-1
+[sbo20]    (OK)Bournemouth(FT) 1.5 -0.75 [10]Odd Down:-1
+[sbo19]    (OK)Lazio(FT) 0.5 -0.65 [340]Odd Down:-1
+[sbo19]    (OK)Burnley(FT) 0 -0.95 [110]Odd Down:-1
+[sbo21]    (OK)Burnley(FT) 0 -0.95 [984]Odd Down:-1
+[sbo19]    (OK)Getafe(FT) -1.5 -0.94 [220]Odd Down:-1
+[sbo19]    (OK)Stoke City(FT) 2.25 -0.98 [1020]Odd Down:-1
+[sbo35]    (OK)Athletic Bilbao(FT) 0.25 -0.90 [600]Odd Down:-1
+[sbo33]    (OK)Athletic Bilbao(FT) 0.25 -0.90 [123]Odd Down:-1
+[sbo31]    (OK)Bangkok Glass(UFT) 3 -0.70 [647]Odd Down:-1
+[sbo31]    (OK)Crystal Palace(FT) -1 -0.89 [492]Odd Down:-1
+[sbo31]    (OK)Ipswich Town(FT) 0.5 -0.88 [111]Odd Down:-1
+[sbo34]    (OK)Crystal Palace(FT) -1 -0.89 [105]Odd Down:-1
+[sbo32]    (OK)Getafe(FT) -1.5 -0.93 [303]Odd Down:-1
+[sbo34]    (OK)Getafe(FT) -1.5 -0.93 [315]Odd Down:-1
+[sbo36]    (OK)Getafe(FT) -1.5 -0.93 [175]Odd Down:-1
+[sbo31]    (OK)Lazio(FT) 0.75 -0.83 [246]Odd Down:-1
+[sbo34]    (OK)Ipswich Town(FT) 0.5 -0.88 [175]Odd Down:-1
+[sbo32]    (OK)Ipswich Town(FT) 0.5 -0.88 [202]Odd Down:-1
+[sbo32]    (OK)Mainz 05(FT) 0.75 -0.97 [606]Odd Down:-1
+[sbo35]    (OK)Mainz 05(FT) 0.75 -0.97 [150]Odd Down:-1
+[sbo32]    (OK)Manchester United(FT) 0 0.98 [101]Odd Down:-1
+[sbo34]    (OK)Mainz 05(FT) 0.75 -0.97 [70]Odd Down:-1
+[sbo32]    (OK)Hertha Berlin(FT) 0.25 -0.76 [246]Odd Down:-1
+[sbo32]    (OK)Crystal Palace(FT) -1 -0.92 [404]Odd Down:-1
+[sbo36]    (OK)Hertha Berlin(FT) 0.25 -0.76 [105]Odd Down:-1
+[sbo33]    (OK)Crystal Palace(FT) -1 -0.92 [246]Odd Down:-1
+[sbo35]    (OK)Crystal Palace(FT) -1 -0.92 [375]Odd Down:-1
+[sbo31]    (OK)Athletic Bilbao(FT) 0.25 -0.86 [303]Odd Down:-1
+[sbo35]    (OK)Ipswich Town(FT) 0.5 -0.88 [210]Odd Down:-1
+[sbo32]    (OK)Lazio(FT) 0.75 -0.83 [101]Odd Down:-1
+[sbo34]    (OK)Athletic Bilbao(FT) 0.25 -0.86 [70]Odd Down:-1
+[sbo31]    (OK)Hertha Berlin(FT) 0.25 -0.76 [101]Odd Down:-1
+[sbo35]    (OK)Lazio(FT) 0.75 -0.83 [105]Odd Down:-1
+[sbo33]    (OK)Real Oviedo(FT) 0 -0.70 [123]Odd Down:-1
+[sbo34]    (OK)Real Oviedo(FT) 0 -0.70 [210]Odd Down:-1
+[sbo31]    (OK)Mainz 05(FT) 0.75 -0.97 [111]Odd Down:-1
+[sbo34]    (OK)Hertha Berlin(FT) 0.25 -0.76 [175]Odd Down:-1
+[sbo32]    (OK)Real Oviedo(FT) 0 -0.70 [101]Odd Down:-1
+[sbo35]    (OK)Real Oviedo(FT) 0 -0.70 [75]Odd Down:-1
+[sbo32]    (OK)Stoke City(FT) 2 -0.68 [333]Odd Down:-1
+[sbo31]    (OK)Getafe(FT) -1.5 -0.95 [777]Odd Down:-1
+[sbo33]    (OK)Hertha Berlin(FT) 0.25 -0.76 [123]Odd Down:-1
+[sbo31]    (OK)Arminia Bielefeld(FT) 0.25 -0.82 [175]Odd Down:-1
+[sbo36]    (OK)Arminia Bielefeld(FT) 0.25 -0.82 [35]Odd Down:-1
+[sbo32]    (OK)Athletic Bilbao(FT) 0.25 -0.86 [113]Odd Down:-1
+[sbo33]    (OK)Getafe(FT) -1.5 -0.95 [202]Odd Down:-1
+[sbo34]    (OK)Burnley(FT) 0 -0.94 [245]Odd Down:-1
+[sbo31]    (OK)Real Sociedad(FT) -0.5 -0.83 [31]Odd Down:-1
+[sbo34]    (OK)Real Sociedad(FT) -0.5 -0.83 [175]Odd Down:-1
+[sbo32]    (OK)Real Sociedad(FT) -0.5 -0.83 [16]Odd Down:-1
+[sbo35]    (OK)Yeovil Town(FT) 0 -0.92 [830]Odd Down:-1
+[sbo35]    (OK)Augsburg(FT) 0.5 -0.85 [66]Odd Down:-1
+[sbo33]    (OK)Augsburg(FT) 0.5 -0.85 [369]Odd Down:-1
+[sbo36]    (OK)Borussia Dortmund(FT) 1 -0.98 [245]Odd Down:-1
+[sbo33]    (OK)Ingolstadt 04(FT) -0.25 0.97 [123]Odd Down:-1
+[sbo35]    (OK)Ingolstadt 04(FT) -0.25 0.97 [10]Odd Down:-1
+[sbo34]    (OK)Wolfsberger(OFT) 2.25 0.99 [105]Odd Down:-1
+[sbo33]    (OK)Arminia Bielefeld(FT) 0.25 -0.82 [123]Odd Down:-1
+[sbo33]    (OK)Wolfsberger(OFT) 2.25 0.99 [369]Odd Down:-1
+[sbo33]    (OK)Real Sociedad(FT) -0.5 -0.83 [369]Odd Down:-1
+[sbo33]    (OK)Accrington Stanley(FT) -0.25 0.95 [267]Odd Down:-1
+[sbo33]    (OK)Lazio(FT) 0.75 -0.83 [369]Odd Down:-1
+[sbo24]    (OK)Real Sociedad(FT) -0.5 -0.83 [333]Odd Down:-1
+[sbo24]    (OK)Schalke 04(FT) 0 -0.98 [1078]Odd Down:-1
+[sbo24]    (OK)Eintracht Frankfurt(FT) 0 -0.90 [539]Odd Down:-1
+[sbo24]    (OK)Augsburg(FT) 0.5 -0.85 [182]Odd Down:-1
+[sbo24]    (OK)Borussia Dortmund(FT) 1 -0.98 [27]Odd Down:-1
+[sbo33]    (OK)Bury(FT) -0.25 -1.00 [40]Odd Down:-1
+[sbo19]    (OK)Swansea City(H1) 0.25 -0.83 [1586]Odd Down:-1
+[sbo33]    (OK)West Ham United(FT) -0.25 -0.82 [123]Odd Down:-1
+[sbo33]    (OK)Livingston(FT) -0.25 -0.89 [311]Odd Down:-1
+[sbo33]    (OK)Welling United(H1) 0 -0.86 [123]Odd Down:-3
+[sbo35]    (OK)Livingston(FT) -0.25 -0.89 [77]Odd Down:-1
+[sbo33]    (OK)Dijon(FT) -2.25 0.96 [123]Odd Down:-1
+[sbo19]    (OK)Borussia Dortmund(FT) 1.25 -0.83 [660]Odd Down:-1
+[sbo19]    (OK)Roma(FT) 0 -0.67 [275]Odd Down:-1
+[sbo19]    (OK)Charleroi(FT) 1 -0.86 [550]Odd Down:-1
+[sbo33]    (OK)Konyaspor(FT) -0.75 -0.94 [492]Odd Down:-1
+[sbo36]    (OK)Konyaspor(FT) -0.75 -0.94 [43]Odd Down:-1
+[sbo33]    (OK)Watford(FT) -0.75 -0.93 [246]Odd Down:-1
+[sbo35]    (OK)Atletico Madrid(FT) 0 -0.85 [140]Odd Down:-1
+[sbo32]    (OK)Atletico Madrid(FT) 0 -0.85 [123]Odd Down:-1
+[sbo31]    (OK)Atletico Madrid(FT) 0 -0.85 [742]Odd Down:-1
+[sbo34]    (OK)Atletico Madrid(FT) 0 -0.85 [75]Odd Down:-1
+[sbo31]    (OK)Watford(FT) -0.5 -0.75 [111]Odd Down:-1
+[sbo34]    (OK)Watford(FT) -0.5 -0.75 [105]Odd Down:-1
+[sbo35]    (OK)Watford(FT) -0.5 -0.75 [525]Odd Down:-1
+[sbo32]    (OK)Watford(FT) -0.5 -0.75 [666]Odd Down:-1
+[sbo31]    (OK)Roma(FT) 0 -0.67 [962]Odd Down:-1
+[sbo34]    (OK)Roma(FT) 0 -0.67 [60]Odd Down:-1
+[sbo35]    (OK)Roma(FT) 0 -0.67 [1000]Odd Down:-1
+[sbo32]    (OK)Roma(FT) 0 -0.67 [833]Odd Down:-1
+[sbo31]    (OK)Wolverhampton Wanderers(FT) 0.5 -0.91 [317]Odd Down:-1
+[sbo35]    (OK)Wolverhampton Wanderers(FT) 0.5 -0.91 [49]Odd Down:-1
+[sbo24]    (OK)Girona(FT) 0 -0.93 [1078]Odd Down:-1
+[sbo24]    (OK)Bologna(FT) 0.75 -0.85 [539]Odd Down:-1
+[sbo24]    (OK)Southampton(FT) 0.75 -0.85 [539]Odd Down:-1
+[sbo24]    (OK)Sassuolo(FT) 0.25 0.96 [383]Odd Down:-1
+[sbo23]    (OK)Newcastle United(FT) 0.5 -0.94 [305]Odd Down:-1
+[sbo24]    (OK)VfL Wolfsburg(FT) 0.75 -0.80 [999]Odd Down:-1
+[sbo24]    (OK)Udinese(FT) 0.75 -0.90 [462]Odd Down:-1
+[sbo19]    (OK)Genoa(FT) 0 -0.77 [275]Odd Down:-1
+[sbo20]    (OK)Cagliari(FT) 0.25 -0.92 [41]Odd Down:-1
+[sbo19]    (OK)Greuther Furth(FT) 0.5 -0.79 [330]Odd Down:-1
+[sbo20]    (OK)Erzgebirge Aue(FT) 0 -0.66 [1504]Odd Down:-1
+[sbo19]    (OK)Bayer Leverkusen(UFT) 2.75 -0.86 [884]Odd Down:-1
+[sbo19]    (OK)Fiorentina(FT) 1 -0.92 [660]Odd Down:-1
+[sbo20]    (OK)Bayer Leverkusen(FT) 1 0.99 [333]Odd Down:-1
+[sbo20]    (OK)Southampton(FT) 0.75 -0.85 [178]Odd Down:-1
+[sbo20]    (OK)Crotone(FT) 0 -0.67 [27]Odd Down:-1
+[sbo21]    (OK)Torino(FT) -0.25 0.96 [738]Odd Down:-1
+[sbo19]    (OK)Newcastle United(FT) 0.5 -0.98 [1779]Odd Down:-1
+[sbo24]    (OK)Real Betis(FT) 0.25 -0.75 [539]Odd Down:-1
+[sbo24]    (OK)Milan(FT) 0.25 -0.90 [399]Odd Down:-1
+[sbo19]    (OK)Gimnastic Tarragona(FT) 0.25 -0.79 [1622]Odd Down:-1
+[sbo20]    (OK)Milan(FT) 0.25 -0.93 [42]Odd Down:-1
+[sbo21]    (OK)Osasuna(FT) 0.25 -0.97 [1107]Odd Down:-1
+[sbo11]    (OK)Inter Milan(FT) 0.25 0.91 [30]Odd Down:-3
+[sbo24]    (OK)Napoli(FT) 0.5 -0.71 [539]Odd Down:-1
+[sbo24]    (OK)Shakhtar Donetsk(FT) -0.5 -0.88 [539]Odd Down:-1
+[sbo24]    (OK)Spartak Moscow(FT) -0.5 0.98 [333]Odd Down:-1
+[sbo24]    (OK)Porto(FT) 0.25 -0.92 [999]Odd Down:-1
+[sbo24]    (OK)Real Madrid(FT) 1.5 -0.81 [539]Odd Down:-1
+[sbo24]    (OK)APOEL Nicosia(FT) -1.75 -0.97 [252]Odd Down:-1
+[sbo21]    (OK)Sevilla(FT) -0.75 -0.79 [615]Odd Down:-1
+[sbo19]    (OK)Rotherham United(FT) -0.25 -0.86 [220]Odd Down:-1
+[sbo20]    (OK)Manchester City(FT) 1 -0.96 [222]Odd Down:-1
+[sbo19]    (OK)Manchester City(FT) 1 -0.97 [825]Odd Down:-1
+[sbo21]    (OK)Napoli(FT) 0.5 -0.67 [1230]Odd Down:-1
+[sbo19]    (OK)RB Leipzig(UH1) 1 -0.99 [55]Odd Down:-1
+[sbo20]    (OK)APOEL Nicosia(FT) -1.5 -0.83 [222]Odd Down:-1
+[sbo21]    (OK)Besiktas(FT) 0.75 -0.90 [738]Odd Down:-1
+[sbo19]    (OK)APOEL Nicosia(FT) -1.5 -0.85 [612]Odd Down:-1
+[sbo20]    (OK)Spartak Moscow(FT) -0.5 0.95 [222]Odd Down:-1
+[sbo19]    (OK)Besiktas(FT) 0.75 -0.91 [605]Odd Down:-1
+[sbo21]    (OK)Borussia Dortmund(FT) -2 -0.76 [279]Odd Down:-1
+[sbo19]    (OK)Derry City(FT) 0.75 -0.91 [872]Odd Down:-1
+[sbo19]    (OK)Maribor(FT) -2 -0.92 [440]Odd Down:-1
+[sbo21]    (OK)Derry City(FT) 0.75 -0.87 [67]Odd Down:-1
+[sbo19]    (OK)Carlisle United(FT) 0 -0.92 [385]Odd Down:-1
+[sbo19]    (OK)Bristol Rovers(FT) 0.25 0.95 [385]Odd Down:-1
+[sbo19]    (OK)Tottenham Hotspur(FT) 1 -0.76 [1056]Odd Down:-1
+[sbo20]    (OK)Maribor(FT) -2 -0.90 [1083]Odd Down:-1
+[sbo38]    (OK)APOEL Nicosia(FT) -1.75 0.96 [330]Odd Down:-1
+[sbo30]    (OK)USM Blida(FT) 0.25 -0.77 [11]Odd Down:-8
+[sbo39]    (OK)Feyenoord(FT) -0.5 0.78 [154]Odd Down:-1
+[sbo38]    (OK)Spartak Moscow(FT) -0.5 0.92 [374]Odd Down:-1
+[sbo39]    (OK)Tottenham Hotspur(FT) 1.5 0.73 [88]Odd Down:-1
+[sbo39]    (OK)Liverpool(FT) -1.75 0.65 [308]Odd Down:-1
+[sbo37]    (OK)Shakhtar Donetsk(FT) -0.25 0.86 [310]Odd Down:-1
+[sbo35]    (OK)Wimbledon(FT) 0 0.97 [493]Odd Down:-1
+[sbo37]    (OK)Plymouth Argyle(FT) 1.25 0.94 [225]Odd Down:-1
+[sbo39]    (OK)Borussia Dortmund(FT) -1.75 0.88 [2000]Odd Down:-1
+[sbo39]    (OK)Feyenoord(FT) -0.75 0.60 [242]Odd Down:-1
+[sbo38]    (OK)Stevenage(FT) -0.25 0.74 [44]Odd Down:-1
+[sbo38]    (OK)Bradford City(FT) 0.5 0.87 [297]Odd Down:-1
+[sbo39]    (OK)Monaco(FT) 0.75 0.76 [264]Odd Down:-1
+[sbo38]    (OK)Wimbledon(UH1) 1 0.82 [132]Odd Down:-1
+[sbo38]    (OK)Besiktas(FT) 1.25 0.67 [110]Odd Down:-1
+[sbo39]    (OK)Crewe Alexandra(FT) -0.25 0.95 [121]Odd Down:-1
+[sbo38]    (OK)Borussia Dortmund(FT) -1.75 0.87 [1713]Odd Down:-1
+[sbo39]    (OK)Plymouth Argyle(FT) 1.25 0.98 [77]Odd Down:-1
+[sbo39]    (OK)Swindon Town(OFT) 2.25 0.91 [132]Odd Down:-1
+[sbo39]    (OK)Real Madrid(FT) 1.25 0.91 [22]Odd Down:-1
+[sbo39]    (OK)Bradford City(FT) 0.5 0.88 [78]Odd Down:-1
+[sbo39]    (OK)Sevilla(FT) -0.25 0.77 [338]Odd Down:-1
+[sbo19]    (OK)Lobos BUAP(UFT) 2.5 -0.97 [68]Odd Down:-1
+[sbo19]    (OK)Monarcas Morelia(FT) 0 -0.89 [272]Odd Down:-2
+[sbo24]    (OK)Benfica(FT) -0.5 -0.90 [666]Odd Down:-1
+[sbo24]    (OK)Basel(FT) 0.25 -0.96 [539]Odd Down:-1
+[sbo24]    (OK)Roma(FT) 0.75 -0.76 [539]Odd Down:-1
+[sbo24]    (OK)Sporting Lisbon(FT) 1 -0.79 [539]Odd Down:-1
+[sbo24]    (OK)Celtic(FT) 2.25 -0.70 [249]Odd Down:-1
+[sbo20]    (OK)Celtic(FT) 2.75 -0.94 [999]Odd Down:-1
+[sbo20]    (OK)Paris Saint Germain(FT) -2.25 -0.92 [999]Odd Down:-1
+[sbo21]    (OK)Anderlecht(FT) -2 -0.87 [1558]Odd Down:-1
+[sbo19]    (OK)Paris Saint Germain(FT) -2.25 -0.90 [330]Odd Down:-1
+[sbo21]    (OK)Sporting Lisbon(FT) 1 -0.85 [202]Odd Down:-1
+[sbo19]    (OK)Roma(FT) 0.75 -0.74 [110]Odd Down:-1
+[sbo21]    (OK)Benfica(FT) -0.25 -0.71 [31]Odd Down:-1
+[sbo19]    (OK)Bayern Munchen(FT) 3 -0.90 [605]Odd Down:-1
+[sbo19]    (OK)Benfica(FT) -0.5 -0.97 [680]Odd Down:-1
+[sbo19]    (OK)Basel(FT) 0.25 -0.97 [1705]Odd Down:-1
+[sbo19]    (OK)Universidad de Chile(OFT) 2.5 -0.86 [647]Odd Down:-1
+[sbo20]    (OK)Benfica(FT) -0.5 -0.95 [222]Odd Down:-1
+[sbo20]    (OK)Chelsea(FT) 1 0.97 [444]Odd Down:-1
+[sbo38]    (OK)Paris Saint Germain(FT) -2 0.89 [341]Odd Down:-1
+[sbo39]    (OK)Benfica(FT) -0.75 0.78 [319]Odd Down:-1
+[sbo34]    (OK)Anderlecht(FT) -2 -0.89 [1500]Odd Down:-1
+[sbo38]    (OK)Manchester United(FT) -0.25 0.63 [2000]Odd Down:-1
+[sbo39]    (OK)KA Moscow(FT) 0.25 0.93 [121]Odd Down:-1
+[sbo39]    (OK)Juventus(FT) 1 0.75 [352]Odd Down:-1
+[sbo19]    (OK)Santos Laguna(FT) 0.5 0.96 [55]Odd Down:-1
+[sbo20]    (OK)Lugano(FT) -0.5 -0.93 [333]Odd Down:-1
+[sbo21]    (OK)Lugano(FT) -0.5 -0.93 [369]Odd Down:-1
+[sbo24]    (OK)Brighton & Hove Albion(FT) 0.5 -0.89 [1078]Odd Down:-1
+[sbo24]    (OK)Mainz 05(FT) 0.5 -0.90 [539]Odd Down:-1
+[sbo19]    (OK)Schalke 04(FT) 0.75 -0.99 [220]Odd Down:-1
+[sbo19]    (OK)Schalke 04(OFT) 2.5 -0.97 [1045]Odd Down:-1
+[sbo19]    (OK)Blau Weiss Linz(FT) 0.75 -0.91 [220]Odd Down:-1
+[sbo20]    (OK)Ingolstadt 04(OFT) 2.75 -0.83 [111]Odd Down:-1
+[sbo20]    (OK)Cremonese(FT) 0.25 -0.95 [111]Odd Down:-1
+[sbo19]    (OK)Helmond Sport(FT) 0.5 -0.89 [165]Odd Down:-1
+[sbo19]    (OK)Goztepe(FT) 0.5 -0.85 [330]Odd Down:-2
+[sbo20]    (OK)Chamois Niortais(FT) 0.75 -0.88 [777]Odd Down:-1
+[sbo20]    (OK)Mainz 05(FT) 0.5 -0.81 [222]Odd Down:-1
+[sbo19]    (OK)Saint Etienne(FT) 0.5 -0.84 [395]Odd Down:-1
+[sbo19]    (OK)Kasimpasa(FT) 0.5 -0.81 [408]Odd Down:-1
+[sbo19]    (OK)Sochaux(FT) 0 -0.94 [275]Odd Down:-1
+[sbo19]    (OK)Goztepe(UFT) 3 -0.82 [272]Odd Down:-1
+[sbo21]    (OK)Montpellier(FT) 0.25 -0.89 [492]Odd Down:-1
+[sbo19]    (OK)Cork City(FT) 0.5 -0.77 [680]Odd Down:-1
+[sbo19]    (OK)Jong AZ Alkmaar(FT) 0 -0.76 [612]Odd Down:-1
+[sbo19]    (OK)US Orleans(FT) -0.25 -0.90 [220]Odd Down:-4
+[sbo20]    (OK)Tours(FT) 0.25 -0.76 [222]Odd Down:-1
+[sbo19]    (OK)Go Ahead Eagles(FT) -0.5 -0.86 [1152]Odd Down:-1
+[sbo21]    (OK)Go Ahead Eagles(FT) -0.5 -0.86 [123]Odd Down:-1
+[sbo20]    (OK)Schalke 04(OH1) 1 -1.00 [10]Odd Down:-1
+[sbo39]    (OK)Brighton & Hove Albion(FT) 0.75 0.90 [396]Odd Down:-1
+[sbo31]    (OK)Bari(OH1) 1 -0.97 [26]Odd Down:-5
+[sbo39]    (OK)Oss(FT) 0 0.81 [341]Odd Down:-1
+[sbo39]    (OK)Chamois Niortais(FT) 0.5 0.73 [264]Odd Down:-1
+[sbo38]    (OK)Saint Etienne(FT) 0.25 0.83 [396]Odd Down:-1
+[sbo38]    (OK)Mainz 05(FT) 0.75 0.91 [176]Odd Down:-1
+[sbo39]    (OK)Atlas(OFT) 2.25 0.89 [374]Odd Down:-1
+[sbo30]    (OK)Le Havre(FT) 0.75 -0.94 [22]Odd Down:-2
+[sbo38]    (OK)Emmen(FT) 0 0.66 [55]Odd Down:-1
+[sbo39]    (OK)MVV Maastricht(FT) -0.25 0.91 [132]Odd Down:-1
+[sbo39]    (OK)Tours(UFT) 2.5 0.86 [154]Odd Down:-1
+[sbo30]    (OK)Jong  Eindhoven(OH1) 1.25 -0.94 [45]Odd Down:-5
+[sbo5]    (OK)Shamrock Rovers(FT) -0.5 0.77 [109]Odd Down:-3
+[sbo20]    (OK)Bournemouth(FT) 0.25 -0.91 [444]Odd Down:-1
+[sbo20]    (OK)Leyton Orient(FT) 0.25 -0.85 [333]Odd Down:-1
+[sbo19]    (OK)Novara(FT) 0.5 -0.84 [55]Odd Down:-1
+[sbo19]    (OK)Hebei China Fortune(H1) 0 -0.94 [275]Odd Down:-1
+[sbo20]    (OK)Heart of Midlothian(OFT) 2.5 -0.81 [111]Odd Down:-1
+[sbo20]    (OK)Partick Thistle(OFT) 2.5 -0.83 [576]Odd Down:-1
+[sbo19]    (OK)Crystal Palace(FT) 0.5 -0.91 [612]Odd Down:-1
+[sbo19]    (OK)Manchester City(FT) 2.75 -0.90 [165]Odd Down:-1
+[sbo19]    (OK)Oskarshamns AIK(FT) -0.75 -0.73 [660]Odd Down:-1
+[sbo20]    (OK)Real Betis(FT) 1 -0.92 [443]Odd Down:-1
+[sbo19]    (OK)Bognor Regis Town(FT) 0.25 -0.87 [517]Odd Down:-1
+[sbo19]    (OK)Borussia Monchengladbach(FT) 0 -0.90 [136]Odd Down:-1
+[sbo19]    (OK)Rochdale(FT) 0.25 -0.93 [935]Odd Down:-1
+[sbo19]    (OK)Preusen Munster(FT) 0.25 -0.89 [872]Odd Down:-1
+[sbo19]    (OK)Huddersfield Town(FT) -1 -0.70 [605]Odd Down:-1
+[sbo19]    (OK)Watford(FT) 1.25 -0.85 [476]Odd Down:-1
+[sbo21]    (OK)Watford(FT) 1.25 -0.85 [123]Odd Down:-1
+[sbo21]    (OK)VfB Stuttgart(FT) 1 -0.88 [369]Odd Down:-1
+[sbo19]    (OK)Crawley Town(FT) -0.75 -0.92 [748]Odd Down:-1
+[sbo21]    (OK)Umea(FT) 0 -0.81 [608]Odd Down:-1
+[sbo19]    (OK)VfB Stuttgart(FT) 1 -0.87 [204]Odd Down:-1
+[sbo19]    (OK)Wrexham(FT) 0.5 -0.93 [68]Odd Down:-1
+[sbo18]    (OK)Truro City(H1) 0.25 0.83 [207]Odd Down:-7
+[sbo19]    (OK)Rotherham United(H1) 0 -0.84 [110]Odd Down:-1
+[sbo19]    (OK)Preusen Munster(UFT) 2.25 0.97 [884]Odd Down:-1
+[sbo39]    (OK)Manchester United(FT) -1 0.62 [77]Odd Down:-1
+[sbo39]    (OK)Augsburg(FT) 0.25 0.69 [2000]Odd Down:-1
+[sbo38]    (OK)Norway U17(H1) 0.25 0.73 [176]Odd Down:-1
+[sbo38]    (OK)Grimsby Town(FT) 0 0.78 [352]Odd Down:-1
+[sbo38]    (OK)Borussia Dortmund(FT) -0.5 0.93 [143]Odd Down:-1
+[sbo39]    (OK)Borussia Monchengladbach(FT) -0.25 0.85 [385]Odd Down:-1
+[sbo38]    (OK)Portsmouth(FT) 0.5 0.94 [264]Odd Down:-1
+[sbo38]    (OK)Manchester City(FT) 2.25 0.64 [643]Odd Down:-1
+[sbo38]    (OK)Eintracht Frankfurt(H1) -0.25 0.90 [99]Odd Down:-1
+[sbo38]    (OK)Bayer Leverkusen(FT) 0 0.79 [121]Odd Down:-1
+[sbo39]    (OK)Grimsby Town(FT) 0 0.81 [77]Odd Down:-1
+[sbo39]    (OK)Swansea City(FT) -0.25 0.65 [99]Odd Down:-1
+[sbo38]    (OK)Walsall(FT) 0.5 0.79 [110]Odd Down:-1
+[sbo38]    (OK)RB Leipzig(FT) 0.75 0.58 [19]Odd Down:-1
+[sbo39]    (OK)Manchester City(FT) 2.5 0.79 [1547]Odd Down:-1
+[sbo38]    (OK)Hannover 96(FT) 0.75 0.75 [253]Odd Down:-1
+[sbo38]    (OK)Wolverhampton Wanderers(OFT) 2.5 0.96 [154]Odd Down:-1
+[sbo38]    (OK)Start(FT) -0.5 0.82 [308]Odd Down:-1
+[sbo38]    (OK)Ternana(FT) 0.25 0.89 [1316]Odd Down:-1
+[sbo5]    (OK)Levadiakos(UH1) 0.75 0.93 [150]Odd Down:-7
+[sbo24]    (OK)Manchester City(FT) 2.75 -0.96 [539]Odd Down:-1
+[sbo24]    (OK)Newcastle United(FT) 0.75 -0.85 [922]Odd Down:-1
+[sbo24]    (OK)Hannover 96(FT) 0.25 -0.78 [1312]Odd Down:-1
+[sbo24]    (OK)Manchester United(FT) -1.5 -0.79 [289]Odd Down:-1
+[sbo24]    (OK)Alaves(FT) 0.75 -0.87 [61]Odd Down:-1
+[sbo20]    (OK)Burnley(FT) 2.5 -0.92 [888]Odd Down:-1
+[sbo20]    (OK)Queens Park Rangers(FT) -0.25 -0.94 [666]Odd Down:-1
+[sbo19]    (OK)Swansea City(UH1) 0.75 -0.83 [68]Odd Down:-1
+[sbo20]    (OK)Bayern Munchen(FT) -2 0.95 [111]Odd Down:-1
+[sbo19]    (OK)Sevilla(FT) 0.25 -0.90 [825]Odd Down:-1
+[sbo20]    (OK)Crotone(FT) 0.75 -0.76 [360]Odd Down:-1
+[sbo21]    (OK)Inter Milan(FT) 1 -0.89 [246]Odd Down:-1
+[sbo21]    (OK)Teplice(OFT) 2.5 -0.99 [417]Odd Down:-1
+[sbo19]    (OK)Crotone(FT) 1 0.96 [809]Odd Down:-1
+[sbo24]    (OK)West Bromwich(FT) 0.25 -0.64 [851]Odd Down:-1
+[sbo24]    (OK)Inter Milan(FT) 1 -0.83 [539]Odd Down:-1
+[sbo24]    (OK)Barcelona(FT) 3.25 0.97 [539]Odd Down:-1
+[sbo24]    (OK)Bayern Munchen(FT) -2 -0.92 [539]Odd Down:-1
+[sbo24]    (OK)Valencia(FT) 0.5 -0.82 [152]Odd Down:-1
+[sbo25]    (OK)Angers(FT) 0.5 -0.96 [384]Odd Down:-1
+[sbo20]    (OK)Napoli(FT) 1.5 -0.76 [888]Odd Down:-1
+[sbo19]    (OK)Metz(FT) 0 -0.99 [385]Odd Down:-2
+[sbo17]    (OK)KV Mechelen(FT) 0.25 0.82 [2000]Odd Down:-2
+[sbo19]    (OK)KAA Gent(FT) -0.75 -0.95 [74]Odd Down:-1
+[sbo20]    (OK)Lorca(FT) 0 -0.93 [666]Odd Down:-1
+[sbo19]    (OK)Toulouse(FT) 0.25 -0.78 [310]Odd Down:-1
+[sbo20]    (OK)KV Kortrijk(FT) -0.5 -0.84 [1859]Odd Down:-1
+[sbo17]    (OK)Barcelona(OFT) 4.5 -0.95 [111]Odd Down:-1
+[sbo24]    (OK)Chievo(FT) 0.75 -0.70 [539]Odd Down:-1
+[sbo24]    (OK)Villarreal(FT) 1 0.97 [1078]Odd Down:-1
+[sbo24]    (OK)Werder Bremen(FT) 0.25 0.84 [539]Odd Down:-1
+[sbo24]    (OK)Juventus(FT) -1.5 -0.79 [383]Odd Down:-1
+[sbo24]    (OK)Fiorentina(FT) -0.75 0.70 [1078]Odd Down:-1
+[sbo24]    (OK)Everton(FT) -0.75 0.84 [539]Odd Down:-1
+[sbo24]    (OK)Roma(FT) -0.75 -0.70 [199]Odd Down:-1
+[sbo37]    (OK)TSG Hoffenheim(FT) 0.25 0.81 [200]Odd Down:-1
+[sbo40]    (OK)Akhmat Grozny(FT) -0.25 -0.83 [50]Odd Down:-1
+[sbo27]    (OK)Udinese(FT) -1.25 -1.00 [375]Odd Down:-1
+[sbo21]    (OK)Hertha Berlin(FT) -0.25 -0.81 [492]Odd Down:-1
+[sbo19]    (OK)Torino(FT) -0.75 0.68 [272]Odd Down:-1
+[sbo20]    (OK)Atletico Madrid(FT) -0.5 -0.93 [333]Odd Down:-1
+[sbo20]    (OK)Werder Bremen(FT) 0 -0.94 [1332]Odd Down:-1
+[sbo20]    (OK)Bologna(FT) 0.75 -0.97 [333]Odd Down:-1
+[sbo20]    (OK)Motherwell(FT) 0.75 -0.84 [444]Odd Down:-1
+[sbo19]    (OK)Werder Bremen(FT) 0.5 0.59 [748]Odd Down:-1
+[sbo20]    (OK)Genoa(FT) 1 0.81 [333]Odd Down:-1
+[sbo20]    (OK)Stabaek(UFT) 3 -0.96 [999]Odd Down:-1
+[sbo19]    (OK)Duisburg(FT) 0.25 0.79 [884]Odd Down:-1
+[sbo19]    (OK)Dynamo Dresden(FT) 0.5 -1.00 [110]Odd Down:-1
+[sbo20]    (OK)Torino(FT) -0.25 -0.85 [999]Odd Down:-1
+[sbo21]    (OK)Koln(FT) 0.25 -0.84 [738]Odd Down:-1
+[sbo19]    (OK)Admira Wacker Modling(FT) -1 -0.78 [330]Odd Down:-1
+[sbo19]    (OK)Utrecht(FT) 0.25 -0.94 [110]Odd Down:-1
+[sbo19]    (OK)Everton(FT) -0.5 -0.87 [952]Odd Down:-1
+[sbo20]    (OK)Juventus(FT) -1.25 0.93 [888]Odd Down:-1
+[sbo19]    (OK)Viborg(FT) 0.25 0.98 [220]Odd Down:-1
+[sbo21]    (OK)Admira Wacker Modling(FT) -1 -0.73 [719]Odd Down:-1
+[sbo19]    (OK)Benevento(H1) -0.5 0.84 [340]Odd Down:-1
+[sbo19]    (OK)Milan(FT) 1 -0.88 [55]Odd Down:-1
+[sbo19]    (OK)BK Hacken(FT) 0.75 0.91 [651]Odd Down:-1
+[sbo19]    (OK)Bologna(FT) 1 0.75 [26]Odd Down:-1
+[sbo19]    (OK)Arsenal Tula(FT) 0 -0.83 [330]Odd Down:-1
+[sbo19]    (OK)TSG Hoffenheim(FT) 0 -0.87 [385]Odd Down:-1
+[sbo19]    (OK)Milan(OFT) 2.75 -0.90 [697]Odd Down:-1
+[sbo39]    (OK)Tottenham Hotspur(FT) 0.5 -0.83 [242]Odd Down:-1
+[sbo39]    (OK)Aves(FT) -1.5 0.88 [132]Odd Down:-1
+[sbo38]    (OK)Benevento(FT) -0.75 -0.73 [44]Odd Down:-1
+[sbo30]    (OK)Bologna(FT) 0.5 -0.66 [11]Odd Down:-1
+[sbo39]    (OK)Celta Vigo(FT) -0.75 0.65 [11]Odd Down:-1
+[sbo38]    (OK)Arsenal(FT) -0.25 0.59 [132]Odd Down:-1
+[sbo38]    (OK)Feyenoord(UFT) 2.75 -0.89 [242]Odd Down:-1
+[sbo39]    (OK)Arsenal(FT) -0.5 0.81 [198]Odd Down:-1
+[sbo38]    (OK)Troyes(FT) -1.25 0.87 [55]Odd Down:-1
+[sbo38]    (OK)Juventus(FT) -1 0.63 [396]Odd Down:-1
+[sbo39]    (OK)Benevento(FT) -1.25 0.76 [165]Odd Down:-1
+[sbo39]    (OK)Torino(FT) -0.5 0.94 [187]Odd Down:-1
+[sbo38]    (OK)Sassuolo(FT) -0.25 -0.88 [176]Odd Down:-1
+[sbo39]    (OK)Milan(OFT) 2.75 -0.89 [143]Odd Down:-1
+[sbo39]    (OK)Bologna(FT) 1 0.85 [33]Odd Down:-2
+[sbo38]    (OK)Celta Vigo(FT) -0.75 0.62 [264]Odd Down:-1
+[sbo39]    (OK)Sassuolo(FT) 0 0.77 [143]Odd Down:-2
+[sbo34]    (OK)Strasbourg(FT) 0.75 0.99 [202]Odd Down:-1
+[sbo39]    (OK)Genoa(FT) 0.75 -0.85 [209]Odd Down:-1
+[sbo38]    (OK)Bologna(FT) 0.5 -0.67 [165]Odd Down:-1
+[sbo38]    (OK)Milan(UH1) 1.25 0.68 [165]Odd Down:-1
+[sbo39]    (OK)I Goteborg(OFT) 2.75 0.89 [22]Odd Down:-1
+[sbo39]    (OK)Milan(OH1) 1 0.84 [33]Odd Down:-1
+[sbo39]    (OK)VfL Wolfsburg(UFT) 3 0.82 [66]Odd Down:-1
+[sbo38]    (OK)Tottenham Hotspur(FT) 0.25 0.88 [385]Odd Down:-1
+[sbo39]    (OK)Juventus(FT) -1.25 0.92 [352]Odd Down:-1
+[sbo39]    (OK)Floro SK(FT) 0.75 -0.87 [176]Odd Down:-1
+[sbo38]    (OK)Real Valladolid(FT) 0.75 0.93 [198]Odd Down:-1
+[sbo38]    (OK)Kayserispor(FT) 0.25 0.85 [1721]Odd Down:-1
+[sbo39]    (OK)KA Moscow(FT) -0.25 0.65 [189]Odd Down:-1
+[sbo39]    (OK)Leganes(UFT) 2 0.95 [132]Odd Down:-1
+[sbo39]    (OK)Gimnastic Tarragona(UFT) 2 0.89 [57]Odd Down:-1
+[sbo39]    (OK)Atalanta(OFT) 2.5 -1.00 [286]Odd Down:-1
+[sbo39]    (OK)Konyaspor(FT) 0.25 0.95 [44]Odd Down:-1
+[sbo24]    (OK)Celta Vigo(FT) -0.75 0.59 [245]Odd Down:-1
+[sbo24]    (OK)Freiburg(FT) -0.25 0.77 [86]Odd Down:-1
+[sbo24]    (OK)Liverpool(FT) 0.5 0.80 [279]Odd Down:-1
+[sbo3]    (OK)VfL Wolfsburg(OFT) 2.75 0.99 [250]Odd Down:-2
+[sbo24]    (OK)Leganes(FT) 0 0.72 [39]Odd Down:-1
+[sbo3]    (OK)Austria Wien(FT) -0.5 -0.94 [750]Odd Down:-2
+[sbo24]    (OK)VfL Wolfsburg(FT) 0.5 -0.65 [15]Odd Down:-1
+[sbo24]    (OK)Cagliari(FT) 1.5 -0.74 [999]Odd Down:-1
+[sbo24]    (OK)Eibar(FT) 2.75 -0.91 [485]Odd Down:-1
+[sbo2]    (OK)Gremio Porto Alegre(FT) 0 -0.96 [218]Odd Down:-2
+[sbo22]    (OK)Lazio(FT) 2 -0.86 [204]Odd Down:-1

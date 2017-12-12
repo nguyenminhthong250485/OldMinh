@@ -1,0 +1,14 @@
+Montedio Yamagata,Tokushima Vortis,1,ky51at1008d@Montedio Yamagata,Tokushima Vortis,1,0.00,0.91
+Sanfrecce Hiroshima,Omiya Ardija,1,ky51at1007c@Sanfrecce Hiroshima,Omiya Ardija,1,0.75,0.88
+Thespakusatsu Gunma,Oita Trinita,1,BYCE09000@Thespakusatsu Gunma,Oita Trinita,1,-0.25,0.68
+Suwon Samsung Bluewings,Gangwon FC,1,sjk7402z12ab@Suwon Samsung Bluewings,Gangwon FC,1,0.50,0.96
+Kyoto Sanga,Zweigen Kanazawa,1,ky51at1008d@Kyoto Sanga,Zweigen Kanazawa,1,0.50,0.79
+Roasso Kumamoto,Renofa Yamaguchi,1,ky51at1008d@Roasso Kumamoto,Renofa Yamaguchi,1,-0.25,0.82
+Yokohama F.Marinos,Vissel Kobe,9,1.00,0.86
+Kyoto Sanga,Zweigen Kanazawa,1,BYCE09000@Kyoto Sanga,Zweigen Kanazawa,1,0.50,0.78
+Mito Hollyhock,Kamatamare Sanuki,1,0.25,0.87
+Jeonbuk Hyundai Motors,Daegu FC,1,1.25,0.92
+Vegalta Sendai,Cerezo Osaka,1,-0.50,0.81
+Gefle,Atvidabergs,3,BYCE09000@Gefle,Atvidabergs,3,3.00,0.71
+Gefle,Atvidabergs,3,3.00,0.70
+Gamba Osaka,Kawasaki Frontale,1,0.00,0.98

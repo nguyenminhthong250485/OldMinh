@@ -1,0 +1,8 @@
+Montedio Yamagata,Tokushima Vortis,1,msp3211126@Montedio Yamagata,Tokushima Vortis,1,0.00,-0.95
+Sanfrecce Hiroshima,Omiya Ardija,1,msp3211136@Sanfrecce Hiroshima,Omiya Ardija,1,0.75,-0.92
+Thespakusatsu Gunma,Oita Trinita,1,mqaiq13010@Thespakusatsu Gunma,Oita Trinita,1,-0.25,-0.72
+Suwon Samsung Bluewings,Gangwon FC,1,mrxewww686@Suwon Samsung Bluewings,Gangwon FC,1,0.50,0.99
+Kyoto Sanga,Zweigen Kanazawa,1,msp3211126@Kyoto Sanga,Zweigen Kanazawa,1,0.50,-0.83
+Roasso Kumamoto,Renofa Yamaguchi,1,msp3211126@Roasso Kumamoto,Renofa Yamaguchi,1,-0.25,-0.86
+Kyoto Sanga,Zweigen Kanazawa,1,mqaiq13010@Kyoto Sanga,Zweigen Kanazawa,1,0.50,-0.82
+Gefle,Atvidabergs,3,mqaiq13010@Gefle,Atvidabergs,3,3.00,-0.73

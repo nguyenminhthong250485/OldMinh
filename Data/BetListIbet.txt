@@ -1,0 +1,41 @@
+Lokomotiv Moscow,Spartak Moscow,3,BYCE0939A@Lokomotiv Moscow,Spartak Moscow,3,2.00,0.79
+Cobh Ramblers,UC Dublin,1,BYCE09000@Cobh Ramblers,UC Dublin,1,0.25,0.89
+Corinthians,Atletico Paranaense,1,BYCE09000@Corinthians,Atletico Paranaense,1,1.00,0.79
+Malmo,IK Sirius FK,3,BYCE0922A@Malmo,IK Sirius FK,3,2.50,-0.79
+Mjallby,Utsiktens BK,7,BYCE09000@Mjallby,Utsiktens BK,7,0.00,0.91
+Ural Sverdlovsk Oblast,Rostov FK,9,BYCE09000@Ural Sverdlovsk Oblast,Rostov FK,9,0.75,-0.99
+Honka Espoo,Jaro,3,BYCE0922A@Honka Espoo,Jaro,3,2.75,-0.98
+FC Copenhagen,Aalborg,1,0.75,-0.79
+Vasco da Gama (n),Santos,3,BYCE09000@Vasco da Gama (n),Santos,3,2.50,0.79
+Gremio Porto Alegre,Ponte Preta,1,BYCE0922A@Gremio Porto Alegre,Ponte Preta,1,0.75,0.71
+Vasco da Gama (n),Santos,1,BYCE0939A@Vasco da Gama (n),Santos,1,0.00,0.76
+Arka Gdynia,Slask Wroclaw,7,0.00,0.86
+FC Rosengard,FK Karlskrona,1,BYCE09000@FC Rosengard,FK Karlskrona,1,-0.25,0.91
+Arka Gdynia,Slask Wroclaw,1,0.00,-0.80
+Gremio Porto Alegre,Ponte Preta,1,BYCE09000@Gremio Porto Alegre,Ponte Preta,1,1.00,0.98
+Bahia,Avai SC,3,BYCE0922A@Bahia,Avai SC,3,2.25,-0.88
+Jamaica,El Salvador,1,BYCE0939A@Jamaica,El Salvador,1,0.25,-0.86
+Coritiba,Fluminense,1,BYCE09000@Coritiba,Fluminense,1,0.00,0.62
+Akhmat Grozny,Amkar Perm,1,BYCE0922A@Akhmat Grozny,Amkar Perm,1,0.75,0.79
+Coritiba,Fluminense,1,0.25,0.94
+Chapecoense,Sao Paulo,1,BYCE09028@Chapecoense,Sao Paulo,1,0.00,-0.94
+Atletico Goianiense,Atletico Mineiro,1,BYCE0939A@Atletico Goianiense,Atletico Mineiro,1,-0.25,1.00
+Chapecoense,Sao Paulo,1,0.00,-0.95
+Coritiba,Fluminense,1,BYCE09028@Coritiba,Fluminense,1,0.25,-0.99
+Chapecoense,Sao Paulo,1,BYCE09012@Chapecoense,Sao Paulo,1,0.00,-0.96
+Vasco da Gama (n),Santos,1,BYCE09028@Vasco da Gama (n),Santos,1,0.25,0.79
+Coritiba,Fluminense,1,BYCE09012@Coritiba,Fluminense,1,0.25,0.99
+Coritiba,Fluminense,1,BYCE0939A@Coritiba,Fluminense,1,0.25,0.98
+Vasco da Gama (n),Santos,1,BYCE09012@Vasco da Gama (n),Santos,1,0.25,0.81
+Brann,Sarpsborg 08,1,0.25,-0.92
+Brann,Sarpsborg 08,1,0.00,-0.65
+Brann,Sarpsborg 08,1,BYCE0922A@Brann,Sarpsborg 08,1,0.50,-0.75
+Brann,Sarpsborg 08,1,0.50,0.71
+Brann,Sarpsborg 08,1,BYCE09000@Brann,Sarpsborg 08,1,0.00,-0.71
+Akhmat Grozny,Amkar Perm,1,BYCE0939A@Akhmat Grozny,Amkar Perm,1,0.50,0.94
+Brann,Sarpsborg 08,3,BYCE0922A@Brann,Sarpsborg 08,3,2.50,0.99
+Brann,Sarpsborg 08,1,BYCE0939A@Brann,Sarpsborg 08,1,0.50,-0.67
+Brann,Sarpsborg 08,7,BYCE09012@Brann,Sarpsborg 08,7,0.25,-0.68
+Brann,Sarpsborg 08,7,BYCE0939A@Brann,Sarpsborg 08,7,0.25,-0.67
+Brann,Sarpsborg 08,7,BYCE0922A@Brann,Sarpsborg 08,7,0.25,-0.65
+Queretaro (n),Club America,3,BYCE0939A@Queretaro (n),Club America,3,2.00,0.75

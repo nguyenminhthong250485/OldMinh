@@ -1,0 +1,33 @@
+Lokomotiv Moscow,Spartak Moscow,3,mqaiq13128@Lokomotiv Moscow,Spartak Moscow,3,2.00,-0.85
+Cobh Ramblers,UC Dublin,1,mqaiq13010@Cobh Ramblers,UC Dublin,1,0.25,-0.93
+Corinthians,Atletico Paranaense,1,mqaiq13010@Corinthians,Atletico Paranaense,1,1.00,-0.82
+Malmo,IK Sirius FK,3,mqaiq13036@Malmo,IK Sirius FK,3,2.50,0.75
+Mjallby,Utsiktens BK,7,mqaiq13010@Mjallby,Utsiktens BK,7,0.00,-0.95
+Ural Sverdlovsk Oblast,Rostov FK,9,mqaiq13010@Ural Sverdlovsk Oblast,Rostov FK,9,0.75,0.95
+Honka Espoo,Jaro,3,mqaiq13036@Honka Espoo,Jaro,3,2.75,0.94
+Vasco da Gama (n),Santos,3,mqaiq13010@Vasco da Gama (n),Santos,3,2.50,-0.83
+Gremio Porto Alegre,Ponte Preta,1,mqaiq13439@Gremio Porto Alegre,Ponte Preta,1,0.75,-0.75
+Vasco da Gama (n),Santos,1,mqaiq13128@Vasco da Gama (n),Santos,1,0.00,-0.81
+FC Rosengard,FK Karlskrona,1,mqaiq13268@FC Rosengard,FK Karlskrona,1,-0.25,-0.95
+Gremio Porto Alegre,Ponte Preta,1,mqaiq13010@Gremio Porto Alegre,Ponte Preta,1,1.00,0.98
+Bahia,Avai SC,3,mqaiq13439@Bahia,Avai SC,3,2.25,0.84
+Jamaica,El Salvador,1,mqaiq13128@Jamaica,El Salvador,1,0.25,0.81
+Coritiba,Fluminense,1,mqaiq13010@Coritiba,Fluminense,1,0.00,-0.66
+Akhmat Grozny,Amkar Perm,1,mqaiq13439@Akhmat Grozny,Amkar Perm,1,0.75,-0.83
+Chapecoense,Sao Paulo,1,mqaiq13439@Chapecoense,Sao Paulo,1,0.00,0.9
+Atletico Goianiense,Atletico Mineiro,1,mqaiq13128@Atletico Goianiense,Atletico Mineiro,1,-0.25,0.95
+Coritiba,Fluminense,1,mqaiq13439@Coritiba,Fluminense,1,0.25,0.96
+Chapecoense,Sao Paulo,1,mqaiq13010@Chapecoense,Sao Paulo,1,0.00,0.92
+Vasco da Gama (n),Santos,1,mqaiq13439@Vasco da Gama (n),Santos,1,0.25,-0.83
+Coritiba,Fluminense,1,mqaiq13268@Coritiba,Fluminense,1,0.25,0.97
+Coritiba,Fluminense,1,mqaiq13128@Coritiba,Fluminense,1,0.25,0.98
+Vasco da Gama (n),Santos,1,mqaiq13268@Vasco da Gama (n),Santos,1,0.25,-0.84
+Brann,Sarpsborg 08,1,mqaiq13439@Brann,Sarpsborg 08,1,0.50,0.72
+Brann,Sarpsborg 08,1,mqaiq13268@Brann,Sarpsborg 08,1,0.00,0.67
+Akhmat Grozny,Amkar Perm,1,mqaiq13128@Akhmat Grozny,Amkar Perm,1,0.50,-0.99
+Brann,Sarpsborg 08,3,mqaiq13439@Brann,Sarpsborg 08,3,2.50,0.97
+Brann,Sarpsborg 08,1,mqaiq13128@Brann,Sarpsborg 08,1,0.50,0.62
+Brann,Sarpsborg 08,7,mqaiq13268@Brann,Sarpsborg 08,7,0.25,0.64
+Brann,Sarpsborg 08,7,mqaiq13128@Brann,Sarpsborg 08,7,0.25,0.63
+Brann,Sarpsborg 08,7,mqaiq13439@Brann,Sarpsborg 08,7,0.25,0.61
+Queretaro (n),Club America,3,mqaiq13128@Queretaro (n),Club America,3,2.00,-0.8
